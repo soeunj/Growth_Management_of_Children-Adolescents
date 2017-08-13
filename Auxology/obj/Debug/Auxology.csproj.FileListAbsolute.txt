@@ -762,3 +762,23 @@ C:\Users\Soeun\Documents\카카오톡 받은 파일\Auxology_2016-01-23\Auxology
 C:\Users\Soeun\Documents\카카오톡 받은 파일\Auxology_2016-01-23\Auxology_2016-01-05\Auxology\obj\Debug\Auxology.csproj.GenerateResource.Cache
 C:\Users\Soeun\Documents\카카오톡 받은 파일\Auxology_2016-01-23\Auxology_2016-01-05\Auxology\obj\Debug\Auxology.exe
 C:\Users\Soeun\Documents\카카오톡 받은 파일\Auxology_2016-01-23\Auxology_2016-01-05\Auxology\obj\Debug\Auxology.pdb
+C:\Users\Soeun\Desktop\Auxology\Growth_Management_of_Children-Adolescents\Auxology\bin\Debug\bin\Debug\AUXOLOGY.mdb
+C:\Users\Soeun\Desktop\Auxology\Growth_Management_of_Children-Adolescents\Auxology\bin\Debug\Auxology.exe.config
+C:\Users\Soeun\Desktop\Auxology\Growth_Management_of_Children-Adolescents\Auxology\bin\Debug\Auxology.exe
+C:\Users\Soeun\Desktop\Auxology\Growth_Management_of_Children-Adolescents\Auxology\bin\Debug\Auxology.pdb
+C:\Users\Soeun\Desktop\Auxology\Growth_Management_of_Children-Adolescents\Auxology\bin\Debug\AForge.xml
+C:\Users\Soeun\Desktop\Auxology\Growth_Management_of_Children-Adolescents\Auxology\bin\Debug\AForge.Imaging.xml
+C:\Users\Soeun\Desktop\Auxology\Growth_Management_of_Children-Adolescents\Auxology\bin\Debug\AForge.Math.xml
+C:\Users\Soeun\Desktop\Auxology\Growth_Management_of_Children-Adolescents\Auxology\bin\Debug\MySql.Data.xml
+C:\Users\Soeun\Desktop\Auxology\Growth_Management_of_Children-Adolescents\Auxology\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Soeun\Desktop\Auxology\Growth_Management_of_Children-Adolescents\Auxology\obj\Debug\Auxology.csprojResolveAssemblyReference.cache
+C:\Users\Soeun\Desktop\Auxology\Growth_Management_of_Children-Adolescents\Auxology\obj\Debug\Auxology.ChartSearchForm.resources
+C:\Users\Soeun\Desktop\Auxology\Growth_Management_of_Children-Adolescents\Auxology\obj\Debug\Auxology.DoctorInfoForm.resources
+C:\Users\Soeun\Desktop\Auxology\Growth_Management_of_Children-Adolescents\Auxology\obj\Debug\Auxology.MainForm.resources
+C:\Users\Soeun\Desktop\Auxology\Growth_Management_of_Children-Adolescents\Auxology\obj\Debug\Auxology.Munjin1Form.resources
+C:\Users\Soeun\Desktop\Auxology\Growth_Management_of_Children-Adolescents\Auxology\obj\Debug\Auxology.PInfoForm.resources
+C:\Users\Soeun\Desktop\Auxology\Growth_Management_of_Children-Adolescents\Auxology\obj\Debug\Auxology.PredictForm.resources
+C:\Users\Soeun\Desktop\Auxology\Growth_Management_of_Children-Adolescents\Auxology\obj\Debug\Auxology.Properties.Resources.resources
+C:\Users\Soeun\Desktop\Auxology\Growth_Management_of_Children-Adolescents\Auxology\obj\Debug\Auxology.csproj.GenerateResource.Cache
+C:\Users\Soeun\Desktop\Auxology\Growth_Management_of_Children-Adolescents\Auxology\obj\Debug\Auxology.exe
+C:\Users\Soeun\Desktop\Auxology\Growth_Management_of_Children-Adolescents\Auxology\obj\Debug\Auxology.pdb
