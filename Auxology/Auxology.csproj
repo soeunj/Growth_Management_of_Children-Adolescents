@@ -1,0 +1,546 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{11913AB4-133A-4540-A187-05D088E3BF5E}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Auxology</RootNamespace>
+    <AssemblyName>Auxology</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AForge, Version=2.2.5.0, Culture=neutral, PublicKeyToken=c1db6ff4eaa06aeb, processorArchitecture=MSIL">
+      <HintPath>..\packages\AForge.2.2.5\lib\AForge.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="AForge.Imaging, Version=2.2.5.0, Culture=neutral, PublicKeyToken=ba8ddea9676ca48b, processorArchitecture=MSIL">
+      <HintPath>..\packages\AForge.Imaging.2.2.5\lib\AForge.Imaging.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="AForge.Math, Version=2.2.5.0, Culture=neutral, PublicKeyToken=abba2e25397ee8c9, processorArchitecture=MSIL">
+      <HintPath>..\packages\AForge.Math.2.2.5\lib\AForge.Math.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="MySql.Data, Version=6.9.9.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\Program Files (x86)\MySQL\MySQL Connector Net 6.9.9\Assemblies\v4.0\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=9.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.9.0.1\lib\net45\Newtonsoft.Json.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="OpenCvSharp">
+      <HintPath>..\..\..\..\..\..\opencv\OpenCvSharp.dll</HintPath>
+    </Reference>
+    <Reference Include="OpenCvSharp.Blob">
+      <HintPath>..\..\..\..\..\..\opencv\OpenCvSharp.Blob.dll</HintPath>
+    </Reference>
+    <Reference Include="OpenCvSharp.CPlusPlus, Version=1.0.0.0, Culture=neutral, PublicKeyToken=6adad1e807fea099, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\opencv\OpenCvSharp.CPlusPlus.dll</HintPath>
+    </Reference>
+    <Reference Include="OpenCvSharp.Extensions">
+      <HintPath>..\..\..\..\..\..\opencv\OpenCvSharp.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="OpenCvSharp.UserInterface">
+      <HintPath>..\..\..\..\..\..\opencv\OpenCvSharp.UserInterface.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ChartSearchForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChartSearchForm.Designer.cs">
+      <DependentUpon>ChartSearchForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DoctorInfoForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DoctorInfoForm.Designer.cs">
+      <DependentUpon>DoctorInfoForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Global.cs" />
+    <Compile Include="JsonResult.cs" />
+    <Compile Include="Pinfo.cs" />
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Munjin1Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Munjin1Form.Designer.cs">
+      <DependentUpon>Munjin1Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PInfoForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PInfoForm.Designer.cs">
+      <DependentUpon>PInfoForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PredictForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PredictForm.Designer.cs">
+      <DependentUpon>PredictForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="ChartSearchForm.resx">
+      <DependentUpon>ChartSearchForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DoctorInfoForm.resx">
+      <DependentUpon>DoctorInfoForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Munjin1Form.resx">
+      <DependentUpon>Munjin1Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PInfoForm.resx">
+      <DependentUpon>PInfoForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PredictForm.resx">
+      <DependentUpon>PredictForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="bin\Debug\Auxology.exe.config" />
+    <None Include="bin\Debug\Auxology.vshost.exe.config" />
+    <None Include="bin\Debug\Auxology.vshost.exe.manifest" />
+    <None Include="image\set-3.zip" />
+    <None Include="image\X-Ray\1 ra.zip" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="bin\Debug\AForge.dll" />
+    <Content Include="bin\Debug\AForge.Imaging.dll" />
+    <Content Include="bin\Debug\AForge.Imaging.xml" />
+    <Content Include="bin\Debug\AForge.Math.dll" />
+    <Content Include="bin\Debug\AForge.Math.xml" />
+    <Content Include="bin\Debug\AForge.xml" />
+    <Content Include="bin\Debug\Auxology.exe" />
+    <Content Include="bin\Debug\AUXOLOGY.mdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="bin\Debug\Auxology.pdb" />
+    <Content Include="bin\Debug\Auxology.vshost.exe" />
+    <Content Include="bin\Debug\image\temp.jpg" />
+    <Content Include="bin\Debug\MySql.Data.dll" />
+    <Content Include="bin\Debug\MySql.Data.xml" />
+    <Content Include="bin\Debug\Newtonsoft.Json.dll" />
+    <Content Include="bin\Debug\Newtonsoft.Json.xml" />
+    <Content Include="bin\Debug\OpenCvSharp.Blob.dll" />
+    <Content Include="bin\Debug\OpenCvSharp.CPlusPlus.dll" />
+    <Content Include="bin\Debug\OpenCvSharp.dll" />
+    <Content Include="bin\Debug\OpenCvSharp.Extensions.dll" />
+    <Content Include="bin\Debug\OpenCvSharp.UserInterface.dll" />
+    <Content Include="bin\Debug\opencv_calib3d2410.dll" />
+    <Content Include="bin\Debug\opencv_calib3d2410d.dll" />
+    <Content Include="bin\Debug\opencv_contrib2410.dll" />
+    <Content Include="bin\Debug\opencv_contrib2410d.dll" />
+    <Content Include="bin\Debug\opencv_core2410.dll" />
+    <Content Include="bin\Debug\opencv_core2410d.dll" />
+    <Content Include="bin\Debug\opencv_createsamples.exe" />
+    <Content Include="bin\Debug\opencv_features2d2410.dll" />
+    <Content Include="bin\Debug\opencv_features2d2410d.dll" />
+    <Content Include="bin\Debug\opencv_ffmpeg2410.dll" />
+    <Content Include="bin\Debug\opencv_flann2410.dll" />
+    <Content Include="bin\Debug\opencv_flann2410d.dll" />
+    <Content Include="bin\Debug\opencv_gpu2410.dll" />
+    <Content Include="bin\Debug\opencv_gpu2410d.dll" />
+    <Content Include="bin\Debug\opencv_haartraining.exe" />
+    <Content Include="bin\Debug\opencv_highgui2410.dll" />
+    <Content Include="bin\Debug\opencv_highgui2410d.dll" />
+    <Content Include="bin\Debug\opencv_imgproc2410.dll" />
+    <Content Include="bin\Debug\opencv_imgproc2410d.dll" />
+    <Content Include="bin\Debug\opencv_legacy2410.dll" />
+    <Content Include="bin\Debug\opencv_legacy2410d.dll" />
+    <Content Include="bin\Debug\opencv_ml2410.dll" />
+    <Content Include="bin\Debug\opencv_ml2410d.dll" />
+    <Content Include="bin\Debug\opencv_nonfree2410.dll" />
+    <Content Include="bin\Debug\opencv_nonfree2410d.dll" />
+    <Content Include="bin\Debug\opencv_objdetect2410.dll" />
+    <Content Include="bin\Debug\opencv_objdetect2410d.dll" />
+    <Content Include="bin\Debug\opencv_ocl2410.dll" />
+    <Content Include="bin\Debug\opencv_ocl2410d.dll" />
+    <Content Include="bin\Debug\opencv_performance.exe" />
+    <Content Include="bin\Debug\opencv_photo2410.dll" />
+    <Content Include="bin\Debug\opencv_photo2410d.dll" />
+    <Content Include="bin\Debug\opencv_stitching2410.dll" />
+    <Content Include="bin\Debug\opencv_stitching2410d.dll" />
+    <Content Include="bin\Debug\opencv_superres2410.dll" />
+    <Content Include="bin\Debug\opencv_superres2410d.dll" />
+    <Content Include="bin\Debug\opencv_traincascade.exe" />
+    <Content Include="bin\Debug\opencv_video2410.dll" />
+    <Content Include="bin\Debug\opencv_video2410d.dll" />
+    <Content Include="bin\Debug\opencv_videostab2410.dll" />
+    <Content Include="bin\Debug\opencv_videostab2410d.dll" />
+    <Content Include="bin\Debug\test.jpg" />
+    <Content Include="bin\Debug\test2.jpg" />
+    <Content Include="bin\Debug\test3.jpg" />
+    <Content Include="bin\Debug\test4.jpg" />
+    <Content Include="bin\Debug\test5.jpg" />
+    <Content Include="bin\Debug\test6.jpg" />
+    <Content Include="bin\Debug\test7.jpg" />
+    <Content Include="image\1.png" />
+    <Content Include="image\10.PNG" />
+    <Content Include="image\11.png" />
+    <Content Include="image\14428910012357.jpg" />
+    <Content Include="image\2.JPG" />
+    <Content Include="image\2.png" />
+    <Content Include="image\3.png" />
+    <Content Include="image\4.png" />
+    <Content Include="image\5.png" />
+    <Content Include="image\6.png" />
+    <Content Include="image\7.png" />
+    <Content Include="image\8.png" />
+    <Content Include="image\9.png" />
+    <Content Include="image\add_folder.ico" />
+    <Content Include="image\add_folder.png" />
+    <Content Include="image\add_folder16.png" />
+    <Content Include="image\application.ico" />
+    <Content Include="image\application.png" />
+    <Content Include="image\application16.png" />
+    <Content Include="image\cancel.gif" />
+    <Content Include="image\downarrow.gif" />
+    <Content Include="image\download.ico" />
+    <Content Include="image\download.png" />
+    <Content Include="image\download16.png" />
+    <Content Include="image\edit.ico" />
+    <Content Include="image\edit.png" />
+    <Content Include="image\edit16.png" />
+    <Content Include="image\email.ico" />
+    <Content Include="image\email.png" />
+    <Content Include="image\email16.png" />
+    <Content Include="image\favorites.ico" />
+    <Content Include="image\favorites.png" />
+    <Content Include="image\favorites16.png" />
+    <Content Include="image\firefox_file.ico" />
+    <Content Include="image\firefox_file.png" />
+    <Content Include="image\firefox_file16.png" />
+    <Content Include="image\forward.ico" />
+    <Content Include="image\forward.png" />
+    <Content Include="image\forward16.png" />
+    <Content Include="image\help.ico" />
+    <Content Include="image\help.png" />
+    <Content Include="image\help16.png" />
+    <Content Include="image\home.ico" />
+    <Content Include="image\home.png" />
+    <Content Include="image\home16.png" />
+    <Content Include="image\image_file.ico" />
+    <Content Include="image\image_file.png" />
+    <Content Include="image\image_file16.png" />
+    <Content Include="image\img\0000000390322.jpg" />
+    <Content Include="image\img\0000000390322.png" />
+    <Content Include="image\img\0000000410404.jpg" />
+    <Content Include="image\img\0000000410404.png" />
+    <Content Include="image\img\0000000420407.jpg" />
+    <Content Include="image\img\0000000420407.png" />
+    <Content Include="image\img\0000000430407.jpg" />
+    <Content Include="image\img\0000000430407.png" />
+    <Content Include="image\img\fing0.png" />
+    <Content Include="image\img\fing1.png" />
+    <Content Include="image\img\fing2.png" />
+    <Content Include="image\img\fing3.png" />
+    <Content Include="image\img\F\1 ra\F-b_ra138.jpg" />
+    <Content Include="image\img\F\1 ra\F-b_ra16.jpg" />
+    <Content Include="image\img\F\1 ra\F-b_ra21.jpg" />
+    <Content Include="image\img\F\1 ra\F-b_ra213.jpg" />
+    <Content Include="image\img\F\1 ra\F-b_ra30.jpg" />
+    <Content Include="image\img\F\1 ra\F-b_ra39.jpg" />
+    <Content Include="image\img\F\1 ra\F-b_ra59.jpg" />
+    <Content Include="image\img\F\1 ra\F-b_ra87.jpg" />
+    <Content Include="image\img\F\10 ff\F-b_ff52.jpg" />
+    <Content Include="image\img\F\11 dp\F-b_dp11.jpg" />
+    <Content Include="image\img\F\11 dp\F-b_dp17.jpg" />
+    <Content Include="image\img\F\11 dp\F-b_dp26.jpg" />
+    <Content Include="image\img\F\11 dp\F-b_dp38.jpg" />
+    <Content Include="image\img\F\11 dp\F-b_dp46.jpg" />
+    <Content Include="image\img\F\11 dp\F-b_dp5.jpg" />
+    <Content Include="image\img\F\11 dp\F-b_dp6.jpg" />
+    <Content Include="image\img\F\11 dp\F-b_dp66.jpg" />
+    <Content Include="image\img\F\12 dpt\F-b_dpt13.jpg" />
+    <Content Include="image\img\F\12 dpt\F-b_dpt18.jpg" />
+    <Content Include="image\img\F\12 dpt\F-b_dpt28.jpg" />
+    <Content Include="image\img\F\12 dpt\F-b_dpt34.jpg" />
+    <Content Include="image\img\F\12 dpt\F-b_dpt4.jpg" />
+    <Content Include="image\img\F\12 dpt\F-b_dpt49.jpg" />
+    <Content Include="image\img\F\12 dpt\F-b_dpt6.jpg" />
+    <Content Include="image\img\F\12 dpt\F-b_dpt8.jpg" />
+    <Content Include="image\img\F\13 ff\F-b_ff49.jpg" />
+    <Content Include="image\img\F\2 ul\F-b_ul107.jpg" />
+    <Content Include="image\img\F\2 ul\F-b_ul181.jpg" />
+    <Content Include="image\img\F\2 ul\F-b_ul27.jpg" />
+    <Content Include="image\img\F\2 ul\F-b_ul30.jpg" />
+    <Content Include="image\img\F\2 ul\F-b_ul32.jpg" />
+    <Content Include="image\img\F\2 ul\F-b_ul40.jpg" />
+    <Content Include="image\img\F\2 ul\F-b_ul58.jpg" />
+    <Content Include="image\img\F\3 fi\F-b_fi14.jpg" />
+    <Content Include="image\img\F\3 fi\F-b_fi21.jpg" />
+    <Content Include="image\img\F\3 fi\F-b_fi26.jpg" />
+    <Content Include="image\img\F\3 fi\F-b_fi36.jpg" />
+    <Content Include="image\img\F\3 fi\F-b_fi49.jpg" />
+    <Content Include="image\img\F\3 fi\F-b_fi6.jpg" />
+    <Content Include="image\img\F\3 fi\F-b_fi67.jpg" />
+    <Content Include="image\img\F\3 fi\F-b_fi9.jpg" />
+    <Content Include="image\img\F\4 th\F-b_th12.jpg" />
+    <Content Include="image\img\F\4 th\F-b_th19.jpg" />
+    <Content Include="image\img\F\4 th\F-b_th31.jpg" />
+    <Content Include="image\img\F\4 th\F-b_th4.jpg" />
+    <Content Include="image\img\F\4 th\F-b_th43.jpg" />
+    <Content Include="image\img\F\4 th\F-b_th5.jpg" />
+    <Content Include="image\img\F\4 th\F-b_th52.jpg" />
+    <Content Include="image\img\F\4 th\F-b_th9.jpg" />
+    <Content Include="image\img\F\5 me\F-b_me52.jpg" />
+    <Content Include="image\img\F\6 pr\F-b_pr11.jpg" />
+    <Content Include="image\img\F\6 pr\F-b_pr17.jpg" />
+    <Content Include="image\img\F\6 pr\F-b_pr26.jpg" />
+    <Content Include="image\img\F\6 pr\F-b_pr38.jpg" />
+    <Content Include="image\img\F\6 pr\F-b_pr52.jpg" />
+    <Content Include="image\img\F\6 pr\F-b_pr67.jpg" />
+    <Content Include="image\img\F\6 pr\F-b_pr7.jpg" />
+    <Content Include="image\img\F\6 pr\F-b_pr8.jpg" />
+    <Content Include="image\img\F\7 prp\F-b_prp15.jpg" />
+    <Content Include="image\img\F\7 prp\F-b_prp23.jpg" />
+    <Content Include="image\img\F\7 prp\F-b_prp31.jpg" />
+    <Content Include="image\img\F\7 prp\F-b_prp4.jpg" />
+    <Content Include="image\img\F\7 prp\F-b_prp40.jpg" />
+    <Content Include="image\img\F\7 prp\F-b_prp53.jpg" />
+    <Content Include="image\img\F\7 prp\F-b_prp7.jpg" />
+    <Content Include="image\img\F\7 prp\F-b_prp9.jpg" />
+    <Content Include="image\img\F\8 fi\F-b_fi53.jpg" />
+    <Content Include="image\img\F\9 mp\F-b_mp15.jpg" />
+    <Content Include="image\img\F\9 mp\F-b_mp22.jpg" />
+    <Content Include="image\img\F\9 mp\F-b_mp32.jpg" />
+    <Content Include="image\img\F\9 mp\F-b_mp4.jpg" />
+    <Content Include="image\img\F\9 mp\F-b_mp43.jpg" />
+    <Content Include="image\img\F\9 mp\F-b_mp52.jpg" />
+    <Content Include="image\img\F\9 mp\F-b_mp6.jpg" />
+    <Content Include="image\img\F\9 mp\F-b_mp9.jpg" />
+    <Content Include="image\img\M\1 ra\M-g_ra114.jpg" />
+    <Content Include="image\img\M\1 ra\M-g_ra160.jpg" />
+    <Content Include="image\img\M\1 ra\M-g_ra218.jpg" />
+    <Content Include="image\img\M\1 ra\M-g_ra23.jpg" />
+    <Content Include="image\img\M\1 ra\M-g_ra30.jpg" />
+    <Content Include="image\img\M\1 ra\M-g_ra44.jpg" />
+    <Content Include="image\img\M\1 ra\M-g_ra56.jpg" />
+    <Content Include="image\img\M\1 ra\M-g_ra78.jpg" />
+    <Content Include="image\img\M\10 ff\M-g_ff45.jpg" />
+    <Content Include="image\img\M\10 ff\M-g_ff9.jpg" />
+    <Content Include="image\img\M\11 dp\M-g_dp15.jpg" />
+    <Content Include="image\img\M\11 dp\M-g_dp22.jpg" />
+    <Content Include="image\img\M\11 dp\M-g_dp33.jpg" />
+    <Content Include="image\img\M\11 dp\M-g_dp48.jpg" />
+    <Content Include="image\img\M\11 dp\M-g_dp51.jpg" />
+    <Content Include="image\img\M\11 dp\M-g_dp68.jpg" />
+    <Content Include="image\img\M\11 dp\M-g_dp7.jpg" />
+    <Content Include="image\img\M\11 dp\M-g_dp9.jpg" />
+    <Content Include="image\img\M\12 dpt\M-g_dpt11.jpg" />
+    <Content Include="image\img\M\12 dpt\M-g_dpt15.jpg" />
+    <Content Include="image\img\M\12 dpt\M-g_dpt22.jpg" />
+    <Content Include="image\img\M\12 dpt\M-g_dpt33.jpg" />
+    <Content Include="image\img\M\12 dpt\M-g_dpt37.jpg" />
+    <Content Include="image\img\M\12 dpt\M-g_dpt49-1.jpg" />
+    <Content Include="image\img\M\12 dpt\M-g_dpt49.jpg" />
+    <Content Include="image\img\M\12 dpt\M-g_dpt7.jpg" />
+    <Content Include="image\img\M\12 dpt\M-g_dpt8.jpg" />
+    <Content Include="image\img\M\13 ff\M-g_ff37.jpg" />
+    <Content Include="image\img\M\13 ff\M-g_ff6.jpg" />
+    <Content Include="image\img\M\2 ul\M-g_ul118.jpg" />
+    <Content Include="image\img\M\2 ul\M-g_ul173.jpg" />
+    <Content Include="image\img\M\2 ul\M-g_ul30.jpg" />
+    <Content Include="image\img\M\2 ul\M-g_ul33.jpg" />
+    <Content Include="image\img\M\2 ul\M-g_ul37.jpg" />
+    <Content Include="image\img\M\2 ul\M-g_ul45.jpg" />
+    <Content Include="image\img\M\2 ul\M-g_ul74.jpg" />
+    <Content Include="image\img\M\3 fi\M-g_fi12.jpg" />
+    <Content Include="image\img\M\3 fi\M-g_fi18.jpg" />
+    <Content Include="image\img\M\3 fi\M-g_fi24.jpg" />
+    <Content Include="image\img\M\3 fi\M-g_fi31.jpg" />
+    <Content Include="image\img\M\3 fi\M-g_fi43.jpg" />
+    <Content Include="image\img\M\3 fi\M-g_fi53.jpg" />
+    <Content Include="image\img\M\3 fi\M-g_fi67.jpg" />
+    <Content Include="image\img\M\3 fi\M-g_fi8.jpg" />
+    <Content Include="image\img\M\4 th\M-g_th12.jpg" />
+    <Content Include="image\img\M\4 th\M-g_th16.jpg" />
+    <Content Include="image\img\M\4 th\M-g_th23.jpg" />
+    <Content Include="image\img\M\4 th\M-g_th37.jpg" />
+    <Content Include="image\img\M\4 th\M-g_th47.jpg" />
+    <Content Include="image\img\M\4 th\M-g_th5.jpg" />
+    <Content Include="image\img\M\4 th\M-g_th53.jpg" />
+    <Content Include="image\img\M\4 th\M-g_th8.jpg" />
+    <Content Include="image\img\M\5 me\M-g_me47.jpg" />
+    <Content Include="image\img\M\5 me\M-g_me5.jpg" />
+    <Content Include="image\img\M\6 pr\M-g_pr11.jpg" />
+    <Content Include="image\img\M\6 pr\M-g_pr14.jpg" />
+    <Content Include="image\img\M\6 pr\M-g_pr20.jpg" />
+    <Content Include="image\img\M\6 pr\M-g_pr31.jpg" />
+    <Content Include="image\img\M\6 pr\M-g_pr44.jpg" />
+    <Content Include="image\img\M\6 pr\M-g_pr56.jpg" />
+    <Content Include="image\img\M\6 pr\M-g_pr67.jpg" />
+    <Content Include="image\img\M\6 pr\M-g_pr9.jpg" />
+    <Content Include="image\img\M\7 prp\M-g_prp12.jpg" />
+    <Content Include="image\img\M\7 prp\M-g_prp19.jpg" />
+    <Content Include="image\img\M\7 prp\M-g_prp27.jpg" />
+    <Content Include="image\img\M\7 prp\M-g_prp37.jpg" />
+    <Content Include="image\img\M\7 prp\M-g_prp44.jpg" />
+    <Content Include="image\img\M\7 prp\M-g_prp5.jpg" />
+    <Content Include="image\img\M\7 prp\M-g_prp54.jpg" />
+    <Content Include="image\img\M\7 prp\M-g_prp7.jpg" />
+    <Content Include="image\img\M\8 fi\M-g_fi4.jpg" />
+    <Content Include="image\img\M\8 fi\M-g_fi44.jpg" />
+    <Content Include="image\img\M\9 mp\M-g_mp12.jpg" />
+    <Content Include="image\img\M\9 mp\M-g_mp18.jpg" />
+    <Content Include="image\img\M\9 mp\M-g_mp27.jpg" />
+    <Content Include="image\img\M\9 mp\M-g_mp36.jpg" />
+    <Content Include="image\img\M\9 mp\M-g_mp45.jpg" />
+    <Content Include="image\img\M\9 mp\M-g_mp5.jpg" />
+    <Content Include="image\img\M\9 mp\M-g_mp52.jpg" />
+    <Content Include="image\img\M\9 mp\M-g_mp8.jpg" />
+    <Content Include="image\infobox.gif" />
+    <Content Include="image\internet.gif" />
+    <Content Include="image\KakaoTalk_20161202_180657097.bmp" />
+    <Content Include="image\leftarrow.gif" />
+    <Content Include="image\my_documents.ico" />
+    <Content Include="image\my_documents.png" />
+    <Content Include="image\my_documents16.png" />
+    <Content Include="image\openFile.gif" />
+    <Content Include="image\options.gif" />
+    <Content Include="image\pause.ico" />
+    <Content Include="image\pause.png" />
+    <Content Include="image\pause16.png" />
+    <Content Include="image\play.ico" />
+    <Content Include="image\play.png" />
+    <Content Include="image\play16.png" />
+    <Content Include="image\preview.ico" />
+    <Content Include="image\preview.png" />
+    <Content Include="image\preview16.png" />
+    <Content Include="image\radius.PNG" />
+    <Content Include="image\redo.gif" />
+    <Content Include="image\rewind.ico" />
+    <Content Include="image\rewind.png" />
+    <Content Include="image\rewind16.png" />
+    <Content Include="image\rightarrow.gif" />
+    <Content Include="image\saveFile.gif" />
+    <Content Include="image\search.ico" />
+    <Content Include="image\search.png" />
+    <Content Include="image\search16.png" />
+    <Content Include="image\sonoum.gif" />
+    <Content Include="image\stop.ico" />
+    <Content Include="image\stop.png" />
+    <Content Include="image\stop16.png" />
+    <Content Include="image\style_file.ico" />
+    <Content Include="image\style_file.png" />
+    <Content Include="image\style_file16.png" />
+    <Content Include="image\ulna.png" />
+    <Content Include="image\unlock.gif" />
+    <Content Include="image\uparrow.gif" />
+    <Content Include="image\X-Ray\M_ra\M-g_ra114.jpg" />
+    <Content Include="image\X-Ray\M_ra\M-g_ra114_thresh.png" />
+    <Content Include="image\X-Ray\M_ra\M-g_ra160.jpg" />
+    <Content Include="image\X-Ray\M_ra\M-g_ra160_thresh.PNG" />
+    <Content Include="image\X-Ray\M_ra\M-g_ra218.jpg" />
+    <Content Include="image\X-Ray\M_ra\M-g_ra23.jpg" />
+    <Content Include="image\X-Ray\M_ra\M-g_ra23_thresh.png" />
+    <Content Include="image\X-Ray\M_ra\M-g_ra30.jpg" />
+    <Content Include="image\X-Ray\M_ra\M-g_ra30_thresh.png" />
+    <Content Include="image\X-Ray\M_ra\M-g_ra44.jpg" />
+    <Content Include="image\X-Ray\M_ra\M-g_ra44_thresh.png" />
+    <Content Include="image\X-Ray\M_ra\M-g_ra56.jpg" />
+    <Content Include="image\X-Ray\M_ra\M-g_ra56_thresh.png" />
+    <Content Include="image\X-Ray\M_ra\M-g_ra78.jpg" />
+    <Content Include="image\X-Ray\M_ra\M-g_ra78_thresh.png" />
+    <Content Include="image\X-Ray\test0.png" />
+    <Content Include="image\X-Ray\test1.png" />
+    <Content Include="image\X-Ray\test2.png" />
+    <Content Include="image\X-Ray\test3.png" />
+    <Content Include="image\X-Ray\test4.png" />
+    <Content Include="image\X-Ray\test5.png" />
+    <Content Include="image\X-Ray\test6.png" />
+    <Content Include="image\X-Ray\test7.png" />
+    <Content Include="image\X-Ray\test8.png" />
+    <Content Include="image\x.ico" />
+    <Content Include="image\x.png" />
+    <Content Include="image\x16.png" />
+    <Content Include="image\zoomin.gif" />
+    <None Include="Resources\temp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="bin\Release\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

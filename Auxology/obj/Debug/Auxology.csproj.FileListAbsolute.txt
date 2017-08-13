@@ -1,0 +1,764 @@
+c:\users\sonoum003\documents\visual studio 2015\Projects\Auxology\Auxology\bin\Debug\Auxology.exe.config
+c:\users\sonoum003\documents\visual studio 2015\Projects\Auxology\Auxology\bin\Debug\Auxology.exe
+c:\users\sonoum003\documents\visual studio 2015\Projects\Auxology\Auxology\bin\Debug\Auxology.pdb
+c:\users\sonoum003\documents\visual studio 2015\Projects\Auxology\Auxology\obj\Debug\Auxology.csprojResolveAssemblyReference.cache
+c:\users\sonoum003\documents\visual studio 2015\Projects\Auxology\Auxology\obj\Debug\Auxology.Properties.Resources.resources
+c:\users\sonoum003\documents\visual studio 2015\Projects\Auxology\Auxology\obj\Debug\Auxology.csproj.GenerateResource.Cache
+c:\users\sonoum003\documents\visual studio 2015\Projects\Auxology\Auxology\obj\Debug\Auxology.exe
+c:\users\sonoum003\documents\visual studio 2015\Projects\Auxology\Auxology\obj\Debug\Auxology.pdb
+C:\Users\sonoum003\Documents\Visual Studio 2015\Projects\Auxology\Auxology\obj\Debug\Auxology.munjin1Form.resources
+C:\Users\sonoum003\Documents\Visual Studio 2015\Projects\Auxology\Auxology\obj\Debug\Auxology.PInfoForm.resources
+C:\Users\sonoum003\Documents\Visual Studio 2015\Projects\Auxology\Auxology\obj\Debug\Auxology.PredictForm.resources
+C:\Users\sonoum003\Documents\Visual Studio 2015\Projects\Auxology\Auxology\obj\Debug\Auxology.MainForm.resources
+C:\Users\sonoum003\Documents\Visual Studio 2015\Projects\Auxology\Auxology\obj\Debug\Auxology.DoctorInfoForm.resources
+C:\Users\sonoum003\Documents\Visual Studio 2015\Projects\Auxology\Auxology\bin\Debug\MySql.Data.dll
+C:\Users\sonoum003\Documents\Visual Studio 2015\Projects\Auxology\Auxology\bin\Debug\MySql.Data.xml
+C:\Users\sonoum003\Documents\Visual Studio 2015\Projects\Auxology_2016-11-03\Auxology\bin\Debug\Auxology.exe.config
+C:\Users\sonoum003\Documents\Visual Studio 2015\Projects\Auxology_2016-11-03\Auxology\obj\Debug\Auxology.exe
+C:\Users\sonoum003\Documents\Visual Studio 2015\Projects\Auxology_2016-11-03\Auxology\obj\Debug\Auxology.pdb
+C:\Users\sonoum003\Documents\Visual Studio 2015\Projects\Auxology_2016-11-03\Auxology\bin\Debug\Auxology.exe
+C:\Users\sonoum003\Documents\Visual Studio 2015\Projects\Auxology_2016-11-03\Auxology\bin\Debug\Auxology.pdb
+C:\Users\sonoum003\Documents\Visual Studio 2015\Projects\Auxology_2016-11-03\Auxology\bin\Debug\MySql.Data.dll
+C:\Users\sonoum003\Documents\Visual Studio 2015\Projects\Auxology_2016-11-03\Auxology\bin\Debug\MySql.Data.xml
+C:\Users\sonoum003\Documents\Visual Studio 2015\Projects\Auxology_2016-11-03\Auxology\obj\Debug\Auxology.csprojResolveAssemblyReference.cache
+C:\Users\sonoum003\Documents\Visual Studio 2015\Projects\Auxology_2016-11-03\Auxology\obj\Debug\Auxology.DoctorInfoForm.resources
+C:\Users\sonoum003\Documents\Visual Studio 2015\Projects\Auxology_2016-11-03\Auxology\obj\Debug\Auxology.MainForm.resources
+C:\Users\sonoum003\Documents\Visual Studio 2015\Projects\Auxology_2016-11-03\Auxology\obj\Debug\Auxology.Munjin1Form.resources
+C:\Users\sonoum003\Documents\Visual Studio 2015\Projects\Auxology_2016-11-03\Auxology\obj\Debug\Auxology.PInfoForm.resources
+C:\Users\sonoum003\Documents\Visual Studio 2015\Projects\Auxology_2016-11-03\Auxology\obj\Debug\Auxology.PredictForm.resources
+C:\Users\sonoum003\Documents\Visual Studio 2015\Projects\Auxology_2016-11-03\Auxology\obj\Debug\Auxology.Properties.Resources.resources
+C:\Users\sonoum003\Documents\Visual Studio 2015\Projects\Auxology_2016-11-03\Auxology\obj\Debug\Auxology.csproj.GenerateResource.Cache
+C:\Users\sonoum003\Documents\Visual Studio 2015\Projects\Auxology_2016-11-04\Auxology\bin\Debug\Auxology.exe.config
+C:\Users\sonoum003\Documents\Visual Studio 2015\Projects\Auxology_2016-11-04\Auxology\obj\Debug\Auxology.exe
+C:\Users\sonoum003\Documents\Visual Studio 2015\Projects\Auxology_2016-11-04\Auxology\obj\Debug\Auxology.pdb
+C:\Users\sonoum003\Documents\Visual Studio 2015\Projects\Auxology_2016-11-04\Auxology\obj\Debug\Auxology.csprojResolveAssemblyReference.cache
+C:\Users\sonoum003\Documents\Visual Studio 2015\Projects\Auxology_2016-11-04\Auxology\obj\Debug\Auxology.DoctorInfoForm.resources
+C:\Users\sonoum003\Documents\Visual Studio 2015\Projects\Auxology_2016-11-04\Auxology\obj\Debug\Auxology.MainForm.resources
+C:\Users\sonoum003\Documents\Visual Studio 2015\Projects\Auxology_2016-11-04\Auxology\obj\Debug\Auxology.Munjin1Form.resources
+C:\Users\sonoum003\Documents\Visual Studio 2015\Projects\Auxology_2016-11-04\Auxology\obj\Debug\Auxology.PInfoForm.resources
+C:\Users\sonoum003\Documents\Visual Studio 2015\Projects\Auxology_2016-11-04\Auxology\obj\Debug\Auxology.PredictForm.resources
+C:\Users\sonoum003\Documents\Visual Studio 2015\Projects\Auxology_2016-11-04\Auxology\obj\Debug\Auxology.Properties.Resources.resources
+C:\Users\sonoum003\Documents\Visual Studio 2015\Projects\Auxology_2016-11-04\Auxology\obj\Debug\Auxology.csproj.GenerateResource.Cache
+C:\Users\sonoum003\Documents\Visual Studio 2015\Projects\Auxology_2016-11-04\Auxology\bin\Debug\Auxology.exe
+C:\Users\sonoum003\Documents\Visual Studio 2015\Projects\Auxology_2016-11-04\Auxology\bin\Debug\Auxology.pdb
+C:\Users\sonoum003\Documents\Visual Studio 2015\Projects\Auxology_2016-11-04\Auxology\bin\Debug\MySql.Data.dll
+C:\Users\sonoum003\Documents\Visual Studio 2015\Projects\Auxology_2016-11-04\Auxology\bin\Debug\MySql.Data.xml
+E:\과제\2016 SW 자산재개발 지원 사업\과제진행\Source\Auxology_2016-11-07\Auxology\bin\Debug\Auxology.exe.config
+E:\과제\2016 SW 자산재개발 지원 사업\과제진행\Source\Auxology_2016-11-07\Auxology\obj\Debug\Auxology.exe
+E:\과제\2016 SW 자산재개발 지원 사업\과제진행\Source\Auxology_2016-11-07\Auxology\obj\Debug\Auxology.pdb
+E:\과제\2016 SW 자산재개발 지원 사업\과제진행\Source\Auxology_2016-11-07\Auxology\bin\Debug\Auxology.exe
+E:\과제\2016 SW 자산재개발 지원 사업\과제진행\Source\Auxology_2016-11-07\Auxology\bin\Debug\Auxology.pdb
+E:\과제\2016 SW 자산재개발 지원 사업\과제진행\Source\Auxology_2016-11-07\Auxology\bin\Debug\MySql.Data.dll
+E:\과제\2016 SW 자산재개발 지원 사업\과제진행\Source\Auxology_2016-11-07\Auxology\bin\Debug\MySql.Data.xml
+E:\과제\2016 SW 자산재개발 지원 사업\과제진행\Source\Auxology_2016-11-07\Auxology\obj\Debug\Auxology.csprojResolveAssemblyReference.cache
+E:\과제\2016 SW 자산재개발 지원 사업\과제진행\Source\Auxology_2016-11-07\Auxology\obj\Debug\Auxology.DoctorInfoForm.resources
+E:\과제\2016 SW 자산재개발 지원 사업\과제진행\Source\Auxology_2016-11-07\Auxology\obj\Debug\Auxology.MainForm.resources
+E:\과제\2016 SW 자산재개발 지원 사업\과제진행\Source\Auxology_2016-11-07\Auxology\obj\Debug\Auxology.Munjin1Form.resources
+E:\과제\2016 SW 자산재개발 지원 사업\과제진행\Source\Auxology_2016-11-07\Auxology\obj\Debug\Auxology.PInfoForm.resources
+E:\과제\2016 SW 자산재개발 지원 사업\과제진행\Source\Auxology_2016-11-07\Auxology\obj\Debug\Auxology.PredictForm.resources
+E:\과제\2016 SW 자산재개발 지원 사업\과제진행\Source\Auxology_2016-11-07\Auxology\obj\Debug\Auxology.Properties.Resources.resources
+E:\과제\2016 SW 자산재개발 지원 사업\과제진행\Source\Auxology_2016-11-07\Auxology\obj\Debug\Auxology.csproj.GenerateResource.Cache
+E:\과제\2016 SW 자산재개발 지원 사업\과제진행\Source\Auxology_2016-11-07\Auxology\obj\Debug\Auxology.FormSize.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-07_수정\Auxology\bin\Debug\Auxology.exe.config
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-07_수정\Auxology\obj\Debug\Auxology.exe
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-07_수정\Auxology\obj\Debug\Auxology.pdb
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-07_수정\Auxology\obj\Debug\Auxology.csprojResolveAssemblyReference.cache
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-07_수정\Auxology\obj\Debug\Auxology.DoctorInfoForm.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-07_수정\Auxology\obj\Debug\Auxology.MainForm.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-07_수정\Auxology\obj\Debug\Auxology.Munjin1Form.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-07_수정\Auxology\obj\Debug\Auxology.PInfoForm.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-07_수정\Auxology\obj\Debug\Auxology.PredictForm.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-07_수정\Auxology\obj\Debug\Auxology.Properties.Resources.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-07_수정\Auxology\obj\Debug\Auxology.csproj.GenerateResource.Cache
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-07_수정\Auxology\bin\Debug\Auxology.exe
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-07_수정\Auxology\bin\Debug\Auxology.pdb
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-07_수정\Auxology\bin\Debug\MySql.Data.dll
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-07_수정\Auxology\bin\Debug\MySql.Data.xml
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-07_수정\Auxology\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-07_수정\Auxology\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-09\Auxology\bin\Debug\Auxology.exe.config
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-09\Auxology\obj\Debug\Auxology.exe
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-09\Auxology\obj\Debug\Auxology.pdb
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-09\Auxology\bin\Debug\Auxology.exe
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-09\Auxology\bin\Debug\Auxology.pdb
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-09\Auxology\bin\Debug\MySql.Data.dll
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-09\Auxology\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-09\Auxology\bin\Debug\MySql.Data.xml
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-09\Auxology\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-09\Auxology\obj\Debug\Auxology.csprojResolveAssemblyReference.cache
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-09\Auxology\obj\Debug\Auxology.DoctorInfoForm.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-09\Auxology\obj\Debug\Auxology.PInfoForm.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-09\Auxology\obj\Debug\Auxology.MainForm.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-09\Auxology\obj\Debug\Auxology.Munjin1Form.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-09\Auxology\obj\Debug\Auxology.PredictForm.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-09\Auxology\obj\Debug\Auxology.Properties.Resources.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-09\Auxology\obj\Debug\Auxology.csproj.GenerateResource.Cache
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-10\Auxology\bin\Debug\Auxology.exe.config
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-10\Auxology\obj\Debug\Auxology.exe
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-10\Auxology\obj\Debug\Auxology.pdb
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-10\Auxology\bin\Debug\Auxology.exe
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-10\Auxology\bin\Debug\Auxology.pdb
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-10\Auxology\bin\Debug\MySql.Data.dll
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-10\Auxology\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-10\Auxology\bin\Debug\MySql.Data.xml
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-10\Auxology\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-10\Auxology\obj\Debug\Auxology.csprojResolveAssemblyReference.cache
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-10\Auxology\obj\Debug\Auxology.DoctorInfoForm.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-10\Auxology\obj\Debug\Auxology.PInfoForm.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-10\Auxology\obj\Debug\Auxology.MainForm.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-10\Auxology\obj\Debug\Auxology.Munjin1Form.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-10\Auxology\obj\Debug\Auxology.PredictForm.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-10\Auxology\obj\Debug\Auxology.Properties.Resources.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-10\Auxology\obj\Debug\Auxology.csproj.GenerateResource.Cache
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-10\Auxology\obj\Debug\Auxology.ChartSearchForm.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-11\Auxology\bin\Debug\Auxology.exe.config
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-11\Auxology\obj\Debug\Auxology.exe
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-11\Auxology\obj\Debug\Auxology.pdb
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-11\Auxology\bin\Debug\Auxology.exe
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-11\Auxology\bin\Debug\Auxology.pdb
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-11\Auxology\bin\Debug\MySql.Data.dll
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-11\Auxology\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-11\Auxology\bin\Debug\MySql.Data.xml
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-11\Auxology\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-11\Auxology\obj\Debug\Auxology.csprojResolveAssemblyReference.cache
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-11\Auxology\obj\Debug\Auxology.ChartSearchForm.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-11\Auxology\obj\Debug\Auxology.DoctorInfoForm.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-11\Auxology\obj\Debug\Auxology.PInfoForm.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-11\Auxology\obj\Debug\Auxology.MainForm.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-11\Auxology\obj\Debug\Auxology.Munjin1Form.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-11\Auxology\obj\Debug\Auxology.PredictForm.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-11\Auxology\obj\Debug\Auxology.Properties.Resources.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-11\Auxology\obj\Debug\Auxology.csproj.GenerateResource.Cache
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-14\Auxology\bin\Debug\Auxology.exe.config
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-14\Auxology\obj\Debug\Auxology.exe
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-14\Auxology\obj\Debug\Auxology.pdb
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-14\Auxology\bin\Debug\Auxology.exe
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-14\Auxology\bin\Debug\Auxology.pdb
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-14\Auxology\bin\Debug\MySql.Data.dll
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-14\Auxology\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-14\Auxology\bin\Debug\OpenCvSharp.dll
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-14\Auxology\bin\Debug\MySql.Data.xml
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-14\Auxology\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-14\Auxology\obj\Debug\Auxology.csprojResolveAssemblyReference.cache
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-14\Auxology\obj\Debug\Auxology.ChartSearchForm.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-14\Auxology\obj\Debug\Auxology.DoctorInfoForm.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-14\Auxology\obj\Debug\Auxology.PInfoForm.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-14\Auxology\obj\Debug\Auxology.MainForm.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-14\Auxology\obj\Debug\Auxology.Munjin1Form.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-14\Auxology\obj\Debug\Auxology.PredictForm.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-14\Auxology\obj\Debug\Auxology.Properties.Resources.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-14\Auxology\obj\Debug\Auxology.csproj.GenerateResource.Cache
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-14\Auxology\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-14\Auxology\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-14\Auxology\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-14\Auxology\bin\Debug\OpenCvSharp.CPlusPlus.dll
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-16\Auxology\bin\Debug\Auxology.exe.config
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-16\Auxology\obj\Debug\Auxology.exe
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-16\Auxology\obj\Debug\Auxology.pdb
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-16\Auxology\bin\Debug\Auxology.exe
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-16\Auxology\bin\Debug\Auxology.pdb
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-16\Auxology\bin\Debug\MySql.Data.dll
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-16\Auxology\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-16\Auxology\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-16\Auxology\bin\Debug\OpenCvSharp.dll
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-16\Auxology\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-16\Auxology\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-16\Auxology\bin\Debug\OpenCvSharp.CPlusPlus.dll
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-16\Auxology\bin\Debug\MySql.Data.xml
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-16\Auxology\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-16\Auxology\obj\Debug\Auxology.csprojResolveAssemblyReference.cache
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-16\Auxology\obj\Debug\Auxology.ChartSearchForm.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-16\Auxology\obj\Debug\Auxology.DoctorInfoForm.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-16\Auxology\obj\Debug\Auxology.PInfoForm.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-16\Auxology\obj\Debug\Auxology.MainForm.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-16\Auxology\obj\Debug\Auxology.Munjin1Form.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-16\Auxology\obj\Debug\Auxology.PredictForm.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-16\Auxology\obj\Debug\Auxology.Properties.Resources.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-16\Auxology\obj\Debug\Auxology.csproj.GenerateResource.Cache
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-16\Auxology\bin\Debug\AForge.dll
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-16\Auxology\bin\Debug\AForge.Imaging.dll
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-16\Auxology\bin\Debug\AForge.Math.dll
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-16\Auxology\bin\Debug\AForge.xml
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-16\Auxology\bin\Debug\AForge.Imaging.xml
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-16\Auxology\bin\Debug\AForge.Math.xml
+C:\workspace\Auxology\Auxology_2016-11-16_j\Auxology\bin\Debug\Auxology.exe.config
+C:\workspace\Auxology\Auxology_2016-11-16_j\Auxology\obj\Debug\Auxology.exe
+C:\workspace\Auxology\Auxology_2016-11-16_j\Auxology\obj\Debug\Auxology.pdb
+C:\workspace\Auxology\Auxology_2016-11-16_j\Auxology\bin\Debug\Auxology.exe
+C:\workspace\Auxology\Auxology_2016-11-16_j\Auxology\bin\Debug\Auxology.pdb
+C:\workspace\Auxology\Auxology_2016-11-16_j\Auxology\bin\Debug\OpenCvSharp.CPlusPlus.dll
+C:\workspace\Auxology\Auxology_2016-11-16_j\Auxology\bin\Debug\AForge.xml
+C:\workspace\Auxology\Auxology_2016-11-16_j\Auxology\bin\Debug\AForge.Imaging.xml
+C:\workspace\Auxology\Auxology_2016-11-16_j\Auxology\bin\Debug\AForge.Math.xml
+C:\workspace\Auxology\Auxology_2016-11-16_j\Auxology\bin\Debug\MySql.Data.xml
+C:\workspace\Auxology\Auxology_2016-11-16_j\Auxology\bin\Debug\Newtonsoft.Json.xml
+C:\workspace\Auxology\Auxology_2016-11-16_j\Auxology\obj\Debug\Auxology.csprojResolveAssemblyReference.cache
+C:\workspace\Auxology\Auxology_2016-11-16_j\Auxology\obj\Debug\Auxology.ChartSearchForm.resources
+C:\workspace\Auxology\Auxology_2016-11-16_j\Auxology\obj\Debug\Auxology.DoctorInfoForm.resources
+C:\workspace\Auxology\Auxology_2016-11-16_j\Auxology\obj\Debug\Auxology.PInfoForm.resources
+C:\workspace\Auxology\Auxology_2016-11-16_j\Auxology\obj\Debug\Auxology.MainForm.resources
+C:\workspace\Auxology\Auxology_2016-11-16_j\Auxology\obj\Debug\Auxology.Munjin1Form.resources
+C:\workspace\Auxology\Auxology_2016-11-16_j\Auxology\obj\Debug\Auxology.PredictForm.resources
+C:\workspace\Auxology\Auxology_2016-11-16_j\Auxology\obj\Debug\Auxology.Properties.Resources.resources
+C:\workspace\Auxology\Auxology_2016-11-16_j\Auxology\obj\Debug\Auxology.csproj.GenerateResource.Cache
+C:\workspace\Auxology\Auxology_2016-11-16_j\Auxology\bin\Debug\bin\Debug\AUXOLOGY.mdb
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-16_j\Auxology\bin\Debug\bin\Debug\AUXOLOGY.mdb
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-16_j\Auxology\bin\Debug\Auxology.exe.config
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-16_j\Auxology\bin\Debug\Auxology.exe
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-16_j\Auxology\bin\Debug\Auxology.pdb
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-16_j\Auxology\bin\Debug\AForge.xml
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-16_j\Auxology\bin\Debug\AForge.Imaging.xml
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-16_j\Auxology\bin\Debug\AForge.Math.xml
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-16_j\Auxology\bin\Debug\MySql.Data.xml
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-16_j\Auxology\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-16_j\Auxology\obj\Debug\Auxology.csprojResolveAssemblyReference.cache
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-16_j\Auxology\obj\Debug\Auxology.ChartSearchForm.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-16_j\Auxology\obj\Debug\Auxology.DoctorInfoForm.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-16_j\Auxology\obj\Debug\Auxology.PInfoForm.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-16_j\Auxology\obj\Debug\Auxology.MainForm.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-16_j\Auxology\obj\Debug\Auxology.Munjin1Form.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-16_j\Auxology\obj\Debug\Auxology.PredictForm.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-16_j\Auxology\obj\Debug\Auxology.Properties.Resources.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-16_j\Auxology\obj\Debug\Auxology.csproj.GenerateResource.Cache
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-16_j\Auxology\obj\Debug\Auxology.exe
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-16_j\Auxology\obj\Debug\Auxology.pdb
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-17\Auxology\bin\Debug\bin\Debug\AUXOLOGY.mdb
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-17\Auxology\bin\Debug\Auxology.exe.config
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-17\Auxology\bin\Debug\Auxology.exe
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-17\Auxology\bin\Debug\Auxology.pdb
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-17\Auxology\bin\Debug\AForge.xml
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-17\Auxology\bin\Debug\AForge.Imaging.xml
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-17\Auxology\bin\Debug\AForge.Math.xml
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-17\Auxology\bin\Debug\MySql.Data.xml
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-17\Auxology\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-17\Auxology\obj\Debug\Auxology.csprojResolveAssemblyReference.cache
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-17\Auxology\obj\Debug\Auxology.ChartSearchForm.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-17\Auxology\obj\Debug\Auxology.DoctorInfoForm.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-17\Auxology\obj\Debug\Auxology.PInfoForm.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-17\Auxology\obj\Debug\Auxology.MainForm.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-17\Auxology\obj\Debug\Auxology.Munjin1Form.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-17\Auxology\obj\Debug\Auxology.PredictForm.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-17\Auxology\obj\Debug\Auxology.Properties.Resources.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-17\Auxology\obj\Debug\Auxology.csproj.GenerateResource.Cache
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-17\Auxology\obj\Debug\Auxology.exe
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-17\Auxology\obj\Debug\Auxology.pdb
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-18\Auxology\bin\Debug\bin\Debug\AUXOLOGY.mdb
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-18\Auxology\bin\Debug\Auxology.exe.config
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-18\Auxology\bin\Debug\Auxology.exe
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-18\Auxology\bin\Debug\Auxology.pdb
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-18\Auxology\bin\Debug\AForge.xml
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-18\Auxology\bin\Debug\AForge.Imaging.xml
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-18\Auxology\bin\Debug\AForge.Math.xml
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-18\Auxology\bin\Debug\MySql.Data.xml
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-18\Auxology\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-18\Auxology\obj\Debug\Auxology.csprojResolveAssemblyReference.cache
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-18\Auxology\obj\Debug\Auxology.ChartSearchForm.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-18\Auxology\obj\Debug\Auxology.DoctorInfoForm.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-18\Auxology\obj\Debug\Auxology.PInfoForm.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-18\Auxology\obj\Debug\Auxology.MainForm.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-18\Auxology\obj\Debug\Auxology.Munjin1Form.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-18\Auxology\obj\Debug\Auxology.PredictForm.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-18\Auxology\obj\Debug\Auxology.Properties.Resources.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-18\Auxology\obj\Debug\Auxology.csproj.GenerateResource.Cache
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-18\Auxology\obj\Debug\Auxology.exe
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-18\Auxology\obj\Debug\Auxology.pdb
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-25\Auxology\bin\Debug\bin\Debug\AUXOLOGY.mdb
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-25\Auxology\bin\Debug\Auxology.exe.config
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-25\Auxology\bin\Debug\Auxology.exe
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-25\Auxology\bin\Debug\Auxology.pdb
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-25\Auxology\bin\Debug\AForge.xml
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-25\Auxology\bin\Debug\AForge.Imaging.xml
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-25\Auxology\bin\Debug\AForge.Math.xml
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-25\Auxology\bin\Debug\MySql.Data.xml
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-25\Auxology\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-25\Auxology\obj\Debug\Auxology.csprojResolveAssemblyReference.cache
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-25\Auxology\obj\Debug\Auxology.ChartSearchForm.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-25\Auxology\obj\Debug\Auxology.DoctorInfoForm.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-25\Auxology\obj\Debug\Auxology.PInfoForm.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-25\Auxology\obj\Debug\Auxology.MainForm.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-25\Auxology\obj\Debug\Auxology.Munjin1Form.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-25\Auxology\obj\Debug\Auxology.PredictForm.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-25\Auxology\obj\Debug\Auxology.Properties.Resources.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-25\Auxology\obj\Debug\Auxology.csproj.GenerateResource.Cache
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-25\Auxology\obj\Debug\Auxology.exe
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-11-25\Auxology\obj\Debug\Auxology.pdb
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-07\Auxology\bin\Debug\bin\Debug\AUXOLOGY.mdb
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-07\Auxology\bin\Debug\Auxology.exe.config
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-07\Auxology\bin\Debug\Auxology.exe
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-07\Auxology\bin\Debug\Auxology.pdb
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-07\Auxology\bin\Debug\AForge.xml
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-07\Auxology\bin\Debug\AForge.Imaging.xml
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-07\Auxology\bin\Debug\AForge.Math.xml
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-07\Auxology\bin\Debug\MySql.Data.xml
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-07\Auxology\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-07\Auxology\obj\Debug\Auxology.csprojResolveAssemblyReference.cache
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-07\Auxology\obj\Debug\Auxology.ChartSearchForm.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-07\Auxology\obj\Debug\Auxology.DoctorInfoForm.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-07\Auxology\obj\Debug\Auxology.PInfoForm.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-07\Auxology\obj\Debug\Auxology.MainForm.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-07\Auxology\obj\Debug\Auxology.Munjin1Form.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-07\Auxology\obj\Debug\Auxology.PredictForm.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-07\Auxology\obj\Debug\Auxology.Properties.Resources.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-07\Auxology\obj\Debug\Auxology.csproj.GenerateResource.Cache
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-07\Auxology\obj\Debug\Auxology.exe
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-07\Auxology\obj\Debug\Auxology.pdb
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-09\Auxology\bin\Debug\bin\Debug\AUXOLOGY.mdb
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-09\Auxology\bin\Debug\Auxology.exe.config
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-09\Auxology\bin\Debug\Auxology.exe
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-09\Auxology\bin\Debug\Auxology.pdb
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-09\Auxology\bin\Debug\AForge.xml
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-09\Auxology\bin\Debug\AForge.Imaging.xml
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-09\Auxology\bin\Debug\AForge.Math.xml
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-09\Auxology\bin\Debug\MySql.Data.xml
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-09\Auxology\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-09\Auxology\obj\Debug\Auxology.csprojResolveAssemblyReference.cache
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-09\Auxology\obj\Debug\Auxology.ChartSearchForm.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-09\Auxology\obj\Debug\Auxology.DoctorInfoForm.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-09\Auxology\obj\Debug\Auxology.PInfoForm.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-09\Auxology\obj\Debug\Auxology.MainForm.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-09\Auxology\obj\Debug\Auxology.Munjin1Form.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-09\Auxology\obj\Debug\Auxology.PredictForm.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-09\Auxology\obj\Debug\Auxology.Properties.Resources.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-09\Auxology\obj\Debug\Auxology.csproj.GenerateResource.Cache
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-09\Auxology\obj\Debug\Auxology.exe
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-09\Auxology\obj\Debug\Auxology.pdb
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-10\Auxology\bin\Debug\bin\Debug\AUXOLOGY.mdb
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-10\Auxology\bin\Debug\Auxology.exe.config
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-10\Auxology\bin\Debug\Auxology.exe
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-10\Auxology\bin\Debug\Auxology.pdb
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-10\Auxology\bin\Debug\AForge.xml
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-10\Auxology\bin\Debug\AForge.Imaging.xml
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-10\Auxology\bin\Debug\AForge.Math.xml
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-10\Auxology\bin\Debug\MySql.Data.xml
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-10\Auxology\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-10\Auxology\obj\Debug\Auxology.csprojResolveAssemblyReference.cache
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-10\Auxology\obj\Debug\Auxology.ChartSearchForm.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-10\Auxology\obj\Debug\Auxology.DoctorInfoForm.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-10\Auxology\obj\Debug\Auxology.PInfoForm.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-10\Auxology\obj\Debug\Auxology.MainForm.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-10\Auxology\obj\Debug\Auxology.Munjin1Form.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-10\Auxology\obj\Debug\Auxology.PredictForm.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-10\Auxology\obj\Debug\Auxology.Properties.Resources.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-10\Auxology\obj\Debug\Auxology.csproj.GenerateResource.Cache
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-10\Auxology\obj\Debug\Auxology.exe
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-10\Auxology\obj\Debug\Auxology.pdb
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-13\Auxology\bin\Debug\bin\Debug\AUXOLOGY.mdb
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-13\Auxology\bin\Debug\Auxology.exe.config
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-13\Auxology\bin\Debug\Auxology.exe
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-13\Auxology\bin\Debug\Auxology.pdb
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-13\Auxology\bin\Debug\AForge.xml
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-13\Auxology\bin\Debug\AForge.Imaging.xml
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-13\Auxology\bin\Debug\AForge.Math.xml
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-13\Auxology\bin\Debug\MySql.Data.xml
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-13\Auxology\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-13\Auxology\obj\Debug\Auxology.csprojResolveAssemblyReference.cache
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-13\Auxology\obj\Debug\Auxology.ChartSearchForm.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-13\Auxology\obj\Debug\Auxology.DoctorInfoForm.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-13\Auxology\obj\Debug\Auxology.PInfoForm.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-13\Auxology\obj\Debug\Auxology.MainForm.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-13\Auxology\obj\Debug\Auxology.Munjin1Form.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-13\Auxology\obj\Debug\Auxology.PredictForm.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-13\Auxology\obj\Debug\Auxology.Properties.Resources.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-13\Auxology\obj\Debug\Auxology.csproj.GenerateResource.Cache
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-13\Auxology\obj\Debug\Auxology.exe
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-13\Auxology\obj\Debug\Auxology.pdb
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-14\Auxology\bin\Debug\bin\Debug\AUXOLOGY.mdb
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-14\Auxology\bin\Debug\Auxology.exe.config
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-14\Auxology\bin\Debug\Auxology.exe
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-14\Auxology\bin\Debug\Auxology.pdb
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-14\Auxology\bin\Debug\AForge.xml
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-14\Auxology\bin\Debug\AForge.Imaging.xml
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-14\Auxology\bin\Debug\AForge.Math.xml
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-14\Auxology\bin\Debug\MySql.Data.xml
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-14\Auxology\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-14\Auxology\obj\Debug\Auxology.csprojResolveAssemblyReference.cache
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-14\Auxology\obj\Debug\Auxology.ChartSearchForm.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-14\Auxology\obj\Debug\Auxology.DoctorInfoForm.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-14\Auxology\obj\Debug\Auxology.PInfoForm.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-14\Auxology\obj\Debug\Auxology.MainForm.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-14\Auxology\obj\Debug\Auxology.Munjin1Form.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-14\Auxology\obj\Debug\Auxology.PredictForm.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-14\Auxology\obj\Debug\Auxology.Properties.Resources.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-14\Auxology\obj\Debug\Auxology.csproj.GenerateResource.Cache
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-14\Auxology\obj\Debug\Auxology.exe
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-14\Auxology\obj\Debug\Auxology.pdb
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-15\Auxology\bin\Debug\bin\Debug\AUXOLOGY.mdb
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-15\Auxology\bin\Debug\Auxology.exe.config
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-15\Auxology\bin\Debug\Auxology.exe
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-15\Auxology\bin\Debug\Auxology.pdb
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-15\Auxology\bin\Debug\AForge.xml
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-15\Auxology\bin\Debug\AForge.Imaging.xml
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-15\Auxology\bin\Debug\AForge.Math.xml
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-15\Auxology\bin\Debug\MySql.Data.xml
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-15\Auxology\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-15\Auxology\obj\Debug\Auxology.csprojResolveAssemblyReference.cache
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-15\Auxology\obj\Debug\Auxology.ChartSearchForm.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-15\Auxology\obj\Debug\Auxology.DoctorInfoForm.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-15\Auxology\obj\Debug\Auxology.PInfoForm.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-15\Auxology\obj\Debug\Auxology.MainForm.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-15\Auxology\obj\Debug\Auxology.Munjin1Form.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-15\Auxology\obj\Debug\Auxology.PredictForm.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-15\Auxology\obj\Debug\Auxology.Properties.Resources.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-15\Auxology\obj\Debug\Auxology.csproj.GenerateResource.Cache
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-15\Auxology\obj\Debug\Auxology.exe
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-15\Auxology\obj\Debug\Auxology.pdb
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-16\Auxology\bin\Debug\bin\Debug\AUXOLOGY.mdb
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-16\Auxology\bin\Debug\Auxology.exe.config
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-16\Auxology\bin\Debug\Auxology.exe
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-16\Auxology\bin\Debug\Auxology.pdb
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-16\Auxology\bin\Debug\AForge.xml
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-16\Auxology\bin\Debug\AForge.Imaging.xml
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-16\Auxology\bin\Debug\AForge.Math.xml
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-16\Auxology\bin\Debug\MySql.Data.xml
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-16\Auxology\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-16\Auxology\obj\Debug\Auxology.csprojResolveAssemblyReference.cache
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-16\Auxology\obj\Debug\Auxology.ChartSearchForm.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-16\Auxology\obj\Debug\Auxology.DoctorInfoForm.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-16\Auxology\obj\Debug\Auxology.PInfoForm.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-16\Auxology\obj\Debug\Auxology.MainForm.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-16\Auxology\obj\Debug\Auxology.Munjin1Form.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-16\Auxology\obj\Debug\Auxology.PredictForm.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-16\Auxology\obj\Debug\Auxology.Properties.Resources.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-16\Auxology\obj\Debug\Auxology.csproj.GenerateResource.Cache
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-16\Auxology\obj\Debug\Auxology.exe
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-16\Auxology\obj\Debug\Auxology.pdb
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-19\Auxology\bin\Debug\bin\Debug\AUXOLOGY.mdb
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-19\Auxology\bin\Debug\Auxology.exe.config
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-19\Auxology\bin\Debug\Auxology.exe
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-19\Auxology\bin\Debug\Auxology.pdb
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-19\Auxology\bin\Debug\AForge.xml
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-19\Auxology\bin\Debug\AForge.Imaging.xml
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-19\Auxology\bin\Debug\AForge.Math.xml
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-19\Auxology\bin\Debug\MySql.Data.xml
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-19\Auxology\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-19\Auxology\obj\Debug\Auxology.csprojResolveAssemblyReference.cache
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-19\Auxology\obj\Debug\Auxology.ChartSearchForm.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-19\Auxology\obj\Debug\Auxology.DoctorInfoForm.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-19\Auxology\obj\Debug\Auxology.PInfoForm.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-19\Auxology\obj\Debug\Auxology.MainForm.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-19\Auxology\obj\Debug\Auxology.Munjin1Form.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-19\Auxology\obj\Debug\Auxology.PredictForm.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-19\Auxology\obj\Debug\Auxology.Properties.Resources.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-19\Auxology\obj\Debug\Auxology.csproj.GenerateResource.Cache
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-19\Auxology\obj\Debug\Auxology.exe
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-19\Auxology\obj\Debug\Auxology.pdb
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-20\Auxology\bin\Debug\bin\Debug\AUXOLOGY.mdb
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-20\Auxology\bin\Debug\Auxology.exe.config
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-20\Auxology\bin\Debug\Auxology.exe
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-20\Auxology\bin\Debug\Auxology.pdb
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-20\Auxology\bin\Debug\AForge.xml
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-20\Auxology\bin\Debug\AForge.Imaging.xml
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-20\Auxology\bin\Debug\AForge.Math.xml
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-20\Auxology\bin\Debug\MySql.Data.xml
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-20\Auxology\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-20\Auxology\obj\Debug\Auxology.csprojResolveAssemblyReference.cache
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-20\Auxology\obj\Debug\Auxology.ChartSearchForm.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-20\Auxology\obj\Debug\Auxology.DoctorInfoForm.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-20\Auxology\obj\Debug\Auxology.PInfoForm.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-20\Auxology\obj\Debug\Auxology.MainForm.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-20\Auxology\obj\Debug\Auxology.Munjin1Form.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-20\Auxology\obj\Debug\Auxology.PredictForm.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-20\Auxology\obj\Debug\Auxology.Properties.Resources.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-20\Auxology\obj\Debug\Auxology.csproj.GenerateResource.Cache
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-20\Auxology\obj\Debug\Auxology.exe
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-20\Auxology\obj\Debug\Auxology.pdb
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-21\Auxology\bin\Debug\bin\Debug\AUXOLOGY.mdb
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-21\Auxology\bin\Debug\Auxology.exe.config
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-21\Auxology\bin\Debug\Auxology.exe
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-21\Auxology\bin\Debug\Auxology.pdb
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-21\Auxology\bin\Debug\AForge.xml
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-21\Auxology\bin\Debug\AForge.Imaging.xml
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-21\Auxology\bin\Debug\AForge.Math.xml
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-21\Auxology\bin\Debug\MySql.Data.xml
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-21\Auxology\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-21\Auxology\obj\Debug\Auxology.csprojResolveAssemblyReference.cache
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-21\Auxology\obj\Debug\Auxology.ChartSearchForm.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-21\Auxology\obj\Debug\Auxology.DoctorInfoForm.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-21\Auxology\obj\Debug\Auxology.PInfoForm.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-21\Auxology\obj\Debug\Auxology.MainForm.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-21\Auxology\obj\Debug\Auxology.Munjin1Form.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-21\Auxology\obj\Debug\Auxology.PredictForm.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-21\Auxology\obj\Debug\Auxology.Properties.Resources.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-21\Auxology\obj\Debug\Auxology.csproj.GenerateResource.Cache
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-21\Auxology\obj\Debug\Auxology.exe
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-21\Auxology\obj\Debug\Auxology.pdb
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-23\Auxology\bin\Debug\bin\Debug\AUXOLOGY.mdb
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-23\Auxology\bin\Debug\Auxology.exe.config
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-23\Auxology\bin\Debug\Auxology.exe
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-23\Auxology\bin\Debug\Auxology.pdb
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-23\Auxology\bin\Debug\AForge.xml
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-23\Auxology\bin\Debug\AForge.Imaging.xml
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-23\Auxology\bin\Debug\AForge.Math.xml
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-23\Auxology\bin\Debug\MySql.Data.xml
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-23\Auxology\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-23\Auxology\obj\Debug\Auxology.csprojResolveAssemblyReference.cache
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-23\Auxology\obj\Debug\Auxology.ChartSearchForm.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-23\Auxology\obj\Debug\Auxology.DoctorInfoForm.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-23\Auxology\obj\Debug\Auxology.PInfoForm.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-23\Auxology\obj\Debug\Auxology.MainForm.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-23\Auxology\obj\Debug\Auxology.Munjin1Form.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-23\Auxology\obj\Debug\Auxology.PredictForm.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-23\Auxology\obj\Debug\Auxology.Properties.Resources.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-23\Auxology\obj\Debug\Auxology.csproj.GenerateResource.Cache
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-23\Auxology\obj\Debug\Auxology.exe
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-23\Auxology\obj\Debug\Auxology.pdb
+C:\Users\KJY\Desktop\Auxology_2016-12-26\Auxology\bin\Debug\bin\Debug\AUXOLOGY.mdb
+C:\Users\KJY\Desktop\Auxology_2016-12-26\Auxology\bin\Debug\Auxology.exe.config
+C:\Users\KJY\Desktop\Auxology_2016-12-26\Auxology\bin\Debug\Auxology.exe
+C:\Users\KJY\Desktop\Auxology_2016-12-26\Auxology\bin\Debug\Auxology.pdb
+C:\Users\KJY\Desktop\Auxology_2016-12-26\Auxology\bin\Debug\AForge.xml
+C:\Users\KJY\Desktop\Auxology_2016-12-26\Auxology\bin\Debug\AForge.Imaging.xml
+C:\Users\KJY\Desktop\Auxology_2016-12-26\Auxology\bin\Debug\AForge.Math.xml
+C:\Users\KJY\Desktop\Auxology_2016-12-26\Auxology\bin\Debug\MySql.Data.xml
+C:\Users\KJY\Desktop\Auxology_2016-12-26\Auxology\bin\Debug\Newtonsoft.Json.xml
+C:\Users\KJY\Desktop\Auxology_2016-12-26\Auxology\obj\Debug\Auxology.csprojResolveAssemblyReference.cache
+C:\Users\KJY\Desktop\Auxology_2016-12-26\Auxology\obj\Debug\Auxology.ChartSearchForm.resources
+C:\Users\KJY\Desktop\Auxology_2016-12-26\Auxology\obj\Debug\Auxology.DoctorInfoForm.resources
+C:\Users\KJY\Desktop\Auxology_2016-12-26\Auxology\obj\Debug\Auxology.PInfoForm.resources
+C:\Users\KJY\Desktop\Auxology_2016-12-26\Auxology\obj\Debug\Auxology.MainForm.resources
+C:\Users\KJY\Desktop\Auxology_2016-12-26\Auxology\obj\Debug\Auxology.Munjin1Form.resources
+C:\Users\KJY\Desktop\Auxology_2016-12-26\Auxology\obj\Debug\Auxology.PredictForm.resources
+C:\Users\KJY\Desktop\Auxology_2016-12-26\Auxology\obj\Debug\Auxology.Properties.Resources.resources
+C:\Users\KJY\Desktop\Auxology_2016-12-26\Auxology\obj\Debug\Auxology.csproj.GenerateResource.Cache
+C:\Users\KJY\Desktop\Auxology_2016-12-26\Auxology\obj\Debug\Auxology.exe
+C:\Users\KJY\Desktop\Auxology_2016-12-26\Auxology\obj\Debug\Auxology.pdb
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-26_소은,정영_문진표까지\Auxology_2016-12-26\Auxology\bin\Debug\bin\Debug\AUXOLOGY.mdb
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-26_소은,정영_문진표까지\Auxology_2016-12-26\Auxology\bin\Debug\Auxology.exe.config
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-26_소은,정영_문진표까지\Auxology_2016-12-26\Auxology\bin\Debug\Auxology.exe
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-26_소은,정영_문진표까지\Auxology_2016-12-26\Auxology\bin\Debug\Auxology.pdb
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-26_소은,정영_문진표까지\Auxology_2016-12-26\Auxology\bin\Debug\AForge.xml
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-26_소은,정영_문진표까지\Auxology_2016-12-26\Auxology\bin\Debug\AForge.Imaging.xml
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-26_소은,정영_문진표까지\Auxology_2016-12-26\Auxology\bin\Debug\AForge.Math.xml
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-26_소은,정영_문진표까지\Auxology_2016-12-26\Auxology\bin\Debug\MySql.Data.xml
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-26_소은,정영_문진표까지\Auxology_2016-12-26\Auxology\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-26_소은,정영_문진표까지\Auxology_2016-12-26\Auxology\obj\Debug\Auxology.csprojResolveAssemblyReference.cache
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-26_소은,정영_문진표까지\Auxology_2016-12-26\Auxology\obj\Debug\Auxology.ChartSearchForm.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-26_소은,정영_문진표까지\Auxology_2016-12-26\Auxology\obj\Debug\Auxology.DoctorInfoForm.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-26_소은,정영_문진표까지\Auxology_2016-12-26\Auxology\obj\Debug\Auxology.MainForm.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-26_소은,정영_문진표까지\Auxology_2016-12-26\Auxology\obj\Debug\Auxology.Munjin1Form.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-26_소은,정영_문진표까지\Auxology_2016-12-26\Auxology\obj\Debug\Auxology.PInfoForm.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-26_소은,정영_문진표까지\Auxology_2016-12-26\Auxology\obj\Debug\Auxology.PredictForm.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-26_소은,정영_문진표까지\Auxology_2016-12-26\Auxology\obj\Debug\Auxology.Properties.Resources.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-26_소은,정영_문진표까지\Auxology_2016-12-26\Auxology\obj\Debug\Auxology.csproj.GenerateResource.Cache
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-26_소은,정영_문진표까지\Auxology_2016-12-26\Auxology\obj\Debug\Auxology.exe
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-26_소은,정영_문진표까지\Auxology_2016-12-26\Auxology\obj\Debug\Auxology.pdb
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-26_소은,정영_문진표까지01-02\Auxology_2016-12-26\Auxology\bin\Debug\bin\Debug\AUXOLOGY.mdb
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-26_소은,정영_문진표까지01-02\Auxology_2016-12-26\Auxology\bin\Debug\Auxology.exe.config
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-26_소은,정영_문진표까지01-02\Auxology_2016-12-26\Auxology\bin\Debug\Auxology.exe
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-26_소은,정영_문진표까지01-02\Auxology_2016-12-26\Auxology\bin\Debug\Auxology.pdb
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-26_소은,정영_문진표까지01-02\Auxology_2016-12-26\Auxology\bin\Debug\AForge.xml
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-26_소은,정영_문진표까지01-02\Auxology_2016-12-26\Auxology\bin\Debug\AForge.Imaging.xml
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-26_소은,정영_문진표까지01-02\Auxology_2016-12-26\Auxology\bin\Debug\AForge.Math.xml
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-26_소은,정영_문진표까지01-02\Auxology_2016-12-26\Auxology\bin\Debug\MySql.Data.xml
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-26_소은,정영_문진표까지01-02\Auxology_2016-12-26\Auxology\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-26_소은,정영_문진표까지01-02\Auxology_2016-12-26\Auxology\obj\Debug\Auxology.csprojResolveAssemblyReference.cache
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-26_소은,정영_문진표까지01-02\Auxology_2016-12-26\Auxology\obj\Debug\Auxology.ChartSearchForm.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-26_소은,정영_문진표까지01-02\Auxology_2016-12-26\Auxology\obj\Debug\Auxology.DoctorInfoForm.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-26_소은,정영_문진표까지01-02\Auxology_2016-12-26\Auxology\obj\Debug\Auxology.MainForm.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-26_소은,정영_문진표까지01-02\Auxology_2016-12-26\Auxology\obj\Debug\Auxology.Munjin1Form.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-26_소은,정영_문진표까지01-02\Auxology_2016-12-26\Auxology\obj\Debug\Auxology.PInfoForm.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-26_소은,정영_문진표까지01-02\Auxology_2016-12-26\Auxology\obj\Debug\Auxology.PredictForm.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-26_소은,정영_문진표까지01-02\Auxology_2016-12-26\Auxology\obj\Debug\Auxology.Properties.Resources.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-26_소은,정영_문진표까지01-02\Auxology_2016-12-26\Auxology\obj\Debug\Auxology.csproj.GenerateResource.Cache
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-26_소은,정영_문진표까지01-02\Auxology_2016-12-26\Auxology\obj\Debug\Auxology.exe
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-26_소은,정영_문진표까지01-02\Auxology_2016-12-26\Auxology\obj\Debug\Auxology.pdb
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-26_소은,정영_문진표까지01-03\Auxology_2016-12-26\Auxology\bin\Debug\bin\Debug\AUXOLOGY.mdb
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-26_소은,정영_문진표까지01-03\Auxology_2016-12-26\Auxology\bin\Debug\Auxology.exe.config
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-26_소은,정영_문진표까지01-03\Auxology_2016-12-26\Auxology\bin\Debug\Auxology.exe
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-26_소은,정영_문진표까지01-03\Auxology_2016-12-26\Auxology\bin\Debug\Auxology.pdb
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-26_소은,정영_문진표까지01-03\Auxology_2016-12-26\Auxology\bin\Debug\AForge.xml
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-26_소은,정영_문진표까지01-03\Auxology_2016-12-26\Auxology\bin\Debug\AForge.Imaging.xml
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-26_소은,정영_문진표까지01-03\Auxology_2016-12-26\Auxology\bin\Debug\AForge.Math.xml
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-26_소은,정영_문진표까지01-03\Auxology_2016-12-26\Auxology\bin\Debug\MySql.Data.xml
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-26_소은,정영_문진표까지01-03\Auxology_2016-12-26\Auxology\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-26_소은,정영_문진표까지01-03\Auxology_2016-12-26\Auxology\obj\Debug\Auxology.csprojResolveAssemblyReference.cache
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-26_소은,정영_문진표까지01-03\Auxology_2016-12-26\Auxology\obj\Debug\Auxology.ChartSearchForm.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-26_소은,정영_문진표까지01-03\Auxology_2016-12-26\Auxology\obj\Debug\Auxology.DoctorInfoForm.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-26_소은,정영_문진표까지01-03\Auxology_2016-12-26\Auxology\obj\Debug\Auxology.MainForm.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-26_소은,정영_문진표까지01-03\Auxology_2016-12-26\Auxology\obj\Debug\Auxology.Munjin1Form.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-26_소은,정영_문진표까지01-03\Auxology_2016-12-26\Auxology\obj\Debug\Auxology.PInfoForm.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-26_소은,정영_문진표까지01-03\Auxology_2016-12-26\Auxology\obj\Debug\Auxology.PredictForm.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-26_소은,정영_문진표까지01-03\Auxology_2016-12-26\Auxology\obj\Debug\Auxology.Properties.Resources.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-26_소은,정영_문진표까지01-03\Auxology_2016-12-26\Auxology\obj\Debug\Auxology.csproj.GenerateResource.Cache
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-26_소은,정영_문진표까지01-03\Auxology_2016-12-26\Auxology\obj\Debug\Auxology.exe
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-26_소은,정영_문진표까지01-03\Auxology_2016-12-26\Auxology\obj\Debug\Auxology.pdb
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-26_소은,정영_문진표까지01-04\Auxology_2016-12-26\Auxology\bin\Debug\bin\Debug\AUXOLOGY.mdb
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-26_소은,정영_문진표까지01-04\Auxology_2016-12-26\Auxology\bin\Debug\Auxology.exe.config
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-26_소은,정영_문진표까지01-04\Auxology_2016-12-26\Auxology\bin\Debug\Auxology.exe
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-26_소은,정영_문진표까지01-04\Auxology_2016-12-26\Auxology\bin\Debug\Auxology.pdb
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-26_소은,정영_문진표까지01-04\Auxology_2016-12-26\Auxology\bin\Debug\AForge.xml
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-26_소은,정영_문진표까지01-04\Auxology_2016-12-26\Auxology\bin\Debug\AForge.Imaging.xml
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-26_소은,정영_문진표까지01-04\Auxology_2016-12-26\Auxology\bin\Debug\AForge.Math.xml
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-26_소은,정영_문진표까지01-04\Auxology_2016-12-26\Auxology\bin\Debug\MySql.Data.xml
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-26_소은,정영_문진표까지01-04\Auxology_2016-12-26\Auxology\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-26_소은,정영_문진표까지01-04\Auxology_2016-12-26\Auxology\obj\Debug\Auxology.csprojResolveAssemblyReference.cache
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-26_소은,정영_문진표까지01-04\Auxology_2016-12-26\Auxology\obj\Debug\Auxology.ChartSearchForm.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-26_소은,정영_문진표까지01-04\Auxology_2016-12-26\Auxology\obj\Debug\Auxology.DoctorInfoForm.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-26_소은,정영_문진표까지01-04\Auxology_2016-12-26\Auxology\obj\Debug\Auxology.MainForm.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-26_소은,정영_문진표까지01-04\Auxology_2016-12-26\Auxology\obj\Debug\Auxology.Munjin1Form.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-26_소은,정영_문진표까지01-04\Auxology_2016-12-26\Auxology\obj\Debug\Auxology.PInfoForm.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-26_소은,정영_문진표까지01-04\Auxology_2016-12-26\Auxology\obj\Debug\Auxology.PredictForm.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-26_소은,정영_문진표까지01-04\Auxology_2016-12-26\Auxology\obj\Debug\Auxology.Properties.Resources.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-26_소은,정영_문진표까지01-04\Auxology_2016-12-26\Auxology\obj\Debug\Auxology.csproj.GenerateResource.Cache
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-26_소은,정영_문진표까지01-04\Auxology_2016-12-26\Auxology\obj\Debug\Auxology.exe
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology_2016-12-26_소은,정영_문진표까지01-04\Auxology_2016-12-26\Auxology\obj\Debug\Auxology.pdb
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology-2017-01-05\Auxology_2016-01-05\Auxology\bin\Debug\bin\Debug\AUXOLOGY.mdb
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology-2017-01-05\Auxology_2016-01-05\Auxology\bin\Debug\Auxology.exe.config
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology-2017-01-05\Auxology_2016-01-05\Auxology\bin\Debug\Auxology.exe
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology-2017-01-05\Auxology_2016-01-05\Auxology\bin\Debug\Auxology.pdb
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology-2017-01-05\Auxology_2016-01-05\Auxology\bin\Debug\AForge.xml
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology-2017-01-05\Auxology_2016-01-05\Auxology\bin\Debug\AForge.Imaging.xml
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology-2017-01-05\Auxology_2016-01-05\Auxology\bin\Debug\AForge.Math.xml
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology-2017-01-05\Auxology_2016-01-05\Auxology\bin\Debug\MySql.Data.xml
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology-2017-01-05\Auxology_2016-01-05\Auxology\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology-2017-01-05\Auxology_2016-01-05\Auxology\obj\Debug\Auxology.csprojResolveAssemblyReference.cache
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology-2017-01-05\Auxology_2016-01-05\Auxology\obj\Debug\Auxology.ChartSearchForm.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology-2017-01-05\Auxology_2016-01-05\Auxology\obj\Debug\Auxology.DoctorInfoForm.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology-2017-01-05\Auxology_2016-01-05\Auxology\obj\Debug\Auxology.MainForm.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology-2017-01-05\Auxology_2016-01-05\Auxology\obj\Debug\Auxology.Munjin1Form.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology-2017-01-05\Auxology_2016-01-05\Auxology\obj\Debug\Auxology.PInfoForm.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology-2017-01-05\Auxology_2016-01-05\Auxology\obj\Debug\Auxology.PredictForm.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology-2017-01-05\Auxology_2016-01-05\Auxology\obj\Debug\Auxology.Properties.Resources.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology-2017-01-05\Auxology_2016-01-05\Auxology\obj\Debug\Auxology.csproj.GenerateResource.Cache
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology-2017-01-05\Auxology_2016-01-05\Auxology\obj\Debug\Auxology.exe
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology-2017-01-05\Auxology_2016-01-05\Auxology\obj\Debug\Auxology.pdb
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology-2017-01-06\Auxology_2016-01-05\Auxology\bin\Debug\bin\Debug\AUXOLOGY.mdb
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology-2017-01-06\Auxology_2016-01-05\Auxology\bin\Debug\Auxology.exe.config
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology-2017-01-06\Auxology_2016-01-05\Auxology\bin\Debug\Auxology.exe
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology-2017-01-06\Auxology_2016-01-05\Auxology\bin\Debug\Auxology.pdb
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology-2017-01-06\Auxology_2016-01-05\Auxology\bin\Debug\AForge.xml
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology-2017-01-06\Auxology_2016-01-05\Auxology\bin\Debug\AForge.Imaging.xml
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology-2017-01-06\Auxology_2016-01-05\Auxology\bin\Debug\AForge.Math.xml
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology-2017-01-06\Auxology_2016-01-05\Auxology\bin\Debug\MySql.Data.xml
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology-2017-01-06\Auxology_2016-01-05\Auxology\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology-2017-01-06\Auxology_2016-01-05\Auxology\obj\Debug\Auxology.csprojResolveAssemblyReference.cache
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology-2017-01-06\Auxology_2016-01-05\Auxology\obj\Debug\Auxology.ChartSearchForm.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology-2017-01-06\Auxology_2016-01-05\Auxology\obj\Debug\Auxology.DoctorInfoForm.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology-2017-01-06\Auxology_2016-01-05\Auxology\obj\Debug\Auxology.MainForm.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology-2017-01-06\Auxology_2016-01-05\Auxology\obj\Debug\Auxology.Munjin1Form.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology-2017-01-06\Auxology_2016-01-05\Auxology\obj\Debug\Auxology.PInfoForm.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology-2017-01-06\Auxology_2016-01-05\Auxology\obj\Debug\Auxology.PredictForm.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology-2017-01-06\Auxology_2016-01-05\Auxology\obj\Debug\Auxology.Properties.Resources.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology-2017-01-06\Auxology_2016-01-05\Auxology\obj\Debug\Auxology.csproj.GenerateResource.Cache
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology-2017-01-06\Auxology_2016-01-05\Auxology\obj\Debug\Auxology.exe
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology-2017-01-06\Auxology_2016-01-05\Auxology\obj\Debug\Auxology.pdb
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology-2017-01-09\Auxology_2016-01-05\Auxology\bin\Debug\bin\Debug\AUXOLOGY.mdb
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology-2017-01-09\Auxology_2016-01-05\Auxology\bin\Debug\Auxology.exe.config
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology-2017-01-09\Auxology_2016-01-05\Auxology\bin\Debug\Auxology.exe
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology-2017-01-09\Auxology_2016-01-05\Auxology\bin\Debug\Auxology.pdb
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology-2017-01-09\Auxology_2016-01-05\Auxology\bin\Debug\AForge.xml
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology-2017-01-09\Auxology_2016-01-05\Auxology\bin\Debug\AForge.Imaging.xml
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology-2017-01-09\Auxology_2016-01-05\Auxology\bin\Debug\AForge.Math.xml
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology-2017-01-09\Auxology_2016-01-05\Auxology\bin\Debug\MySql.Data.xml
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology-2017-01-09\Auxology_2016-01-05\Auxology\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology-2017-01-09\Auxology_2016-01-05\Auxology\obj\Debug\Auxology.csprojResolveAssemblyReference.cache
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology-2017-01-09\Auxology_2016-01-05\Auxology\obj\Debug\Auxology.ChartSearchForm.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology-2017-01-09\Auxology_2016-01-05\Auxology\obj\Debug\Auxology.DoctorInfoForm.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology-2017-01-09\Auxology_2016-01-05\Auxology\obj\Debug\Auxology.MainForm.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology-2017-01-09\Auxology_2016-01-05\Auxology\obj\Debug\Auxology.Munjin1Form.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology-2017-01-09\Auxology_2016-01-05\Auxology\obj\Debug\Auxology.PInfoForm.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology-2017-01-09\Auxology_2016-01-05\Auxology\obj\Debug\Auxology.PredictForm.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology-2017-01-09\Auxology_2016-01-05\Auxology\obj\Debug\Auxology.Properties.Resources.resources
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology-2017-01-09\Auxology_2016-01-05\Auxology\obj\Debug\Auxology.csproj.GenerateResource.Cache
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology-2017-01-09\Auxology_2016-01-05\Auxology\obj\Debug\Auxology.exe
+C:\Users\sonoum003\Documents\카카오톡 받은 파일\Auxology-2017-01-09\Auxology_2016-01-05\Auxology\obj\Debug\Auxology.pdb
+C:\Users\Soeun\Desktop\Auxology_2016-01-05\Auxology\obj\Debug\Auxology.csprojResolveAssemblyReference.cache
+C:\Users\Soeun\Desktop\Auxology_2016-01-05\Auxology\obj\Debug\Auxology.ChartSearchForm.resources
+C:\Users\Soeun\Desktop\Auxology_2016-01-05\Auxology\obj\Debug\Auxology.DoctorInfoForm.resources
+C:\Users\Soeun\Desktop\Auxology_2016-01-05\Auxology\obj\Debug\Auxology.MainForm.resources
+C:\Users\Soeun\Desktop\Auxology_2016-01-05\Auxology\obj\Debug\Auxology.Munjin1Form.resources
+C:\Users\Soeun\Desktop\Auxology_2016-01-05\Auxology\obj\Debug\Auxology.PInfoForm.resources
+C:\Users\Soeun\Desktop\Auxology_2016-01-05\Auxology\obj\Debug\Auxology.PredictForm.resources
+C:\Users\Soeun\Desktop\Auxology_2016-01-05\Auxology\obj\Debug\Auxology.Properties.Resources.resources
+C:\Users\Soeun\Desktop\Auxology_2016-01-05\Auxology\obj\Debug\Auxology.csproj.GenerateResource.Cache
+C:\Users\Soeun\Desktop\Auxology_2016-01-05\Auxology\obj\Debug\Auxology.exe
+C:\Users\Soeun\Desktop\Auxology_2016-01-05\Auxology\obj\Debug\Auxology.pdb
+C:\Users\Soeun\Desktop\Auxology_2016-01-05\Auxology\bin\Debug\bin\Debug\AUXOLOGY.mdb
+C:\Users\Soeun\Desktop\Auxology_2016-01-05\Auxology\bin\Debug\Auxology.exe.config
+C:\Users\Soeun\Desktop\Auxology_2016-01-05\Auxology\bin\Debug\Auxology.exe
+C:\Users\Soeun\Desktop\Auxology_2016-01-05\Auxology\bin\Debug\Auxology.pdb
+C:\Users\Soeun\Desktop\Auxology_2016-01-05\Auxology\bin\Debug\AForge.xml
+C:\Users\Soeun\Desktop\Auxology_2016-01-05\Auxology\bin\Debug\AForge.Imaging.xml
+C:\Users\Soeun\Desktop\Auxology_2016-01-05\Auxology\bin\Debug\AForge.Math.xml
+C:\Users\Soeun\Desktop\Auxology_2016-01-05\Auxology\bin\Debug\MySql.Data.xml
+C:\Users\Soeun\Desktop\Auxology_2016-01-05\Auxology\bin\Debug\Newtonsoft.Json.xml
+C:\Users\KJY\Desktop\Auxology_2016-01-05\Auxology_2016-01-05\Auxology\bin\Debug\bin\Debug\AUXOLOGY.mdb
+C:\Users\KJY\Desktop\Auxology_2016-01-05\Auxology_2016-01-05\Auxology\bin\Debug\Auxology.exe.config
+C:\Users\KJY\Desktop\Auxology_2016-01-05\Auxology_2016-01-05\Auxology\bin\Debug\Auxology.exe
+C:\Users\KJY\Desktop\Auxology_2016-01-05\Auxology_2016-01-05\Auxology\bin\Debug\Auxology.pdb
+C:\Users\KJY\Desktop\Auxology_2016-01-05\Auxology_2016-01-05\Auxology\bin\Debug\AForge.xml
+C:\Users\KJY\Desktop\Auxology_2016-01-05\Auxology_2016-01-05\Auxology\bin\Debug\AForge.Imaging.xml
+C:\Users\KJY\Desktop\Auxology_2016-01-05\Auxology_2016-01-05\Auxology\bin\Debug\AForge.Math.xml
+C:\Users\KJY\Desktop\Auxology_2016-01-05\Auxology_2016-01-05\Auxology\bin\Debug\MySql.Data.xml
+C:\Users\KJY\Desktop\Auxology_2016-01-05\Auxology_2016-01-05\Auxology\bin\Debug\Newtonsoft.Json.xml
+C:\Users\KJY\Desktop\Auxology_2016-01-05\Auxology_2016-01-05\Auxology\obj\Debug\Auxology.csprojResolveAssemblyReference.cache
+C:\Users\KJY\Desktop\Auxology_2016-01-05\Auxology_2016-01-05\Auxology\obj\Debug\Auxology.ChartSearchForm.resources
+C:\Users\KJY\Desktop\Auxology_2016-01-05\Auxology_2016-01-05\Auxology\obj\Debug\Auxology.DoctorInfoForm.resources
+C:\Users\KJY\Desktop\Auxology_2016-01-05\Auxology_2016-01-05\Auxology\obj\Debug\Auxology.MainForm.resources
+C:\Users\KJY\Desktop\Auxology_2016-01-05\Auxology_2016-01-05\Auxology\obj\Debug\Auxology.Munjin1Form.resources
+C:\Users\KJY\Desktop\Auxology_2016-01-05\Auxology_2016-01-05\Auxology\obj\Debug\Auxology.PInfoForm.resources
+C:\Users\KJY\Desktop\Auxology_2016-01-05\Auxology_2016-01-05\Auxology\obj\Debug\Auxology.PredictForm.resources
+C:\Users\KJY\Desktop\Auxology_2016-01-05\Auxology_2016-01-05\Auxology\obj\Debug\Auxology.Properties.Resources.resources
+C:\Users\KJY\Desktop\Auxology_2016-01-05\Auxology_2016-01-05\Auxology\obj\Debug\Auxology.csproj.GenerateResource.Cache
+C:\Users\KJY\Desktop\Auxology_2016-01-05\Auxology_2016-01-05\Auxology\obj\Debug\Auxology.exe
+C:\Users\KJY\Desktop\Auxology_2016-01-05\Auxology_2016-01-05\Auxology\obj\Debug\Auxology.pdb
+C:\Users\Soeun\Desktop\Auxology_2016-01-05\Auxology_2016-01-05\Auxology\bin\Debug\bin\Debug\AUXOLOGY.mdb
+C:\Users\Soeun\Desktop\Auxology_2016-01-05\Auxology_2016-01-05\Auxology\bin\Debug\Auxology.exe.config
+C:\Users\Soeun\Desktop\Auxology_2016-01-05\Auxology_2016-01-05\Auxology\bin\Debug\Auxology.exe
+C:\Users\Soeun\Desktop\Auxology_2016-01-05\Auxology_2016-01-05\Auxology\bin\Debug\Auxology.pdb
+C:\Users\Soeun\Desktop\Auxology_2016-01-05\Auxology_2016-01-05\Auxology\bin\Debug\AForge.xml
+C:\Users\Soeun\Desktop\Auxology_2016-01-05\Auxology_2016-01-05\Auxology\bin\Debug\AForge.Imaging.xml
+C:\Users\Soeun\Desktop\Auxology_2016-01-05\Auxology_2016-01-05\Auxology\bin\Debug\AForge.Math.xml
+C:\Users\Soeun\Desktop\Auxology_2016-01-05\Auxology_2016-01-05\Auxology\bin\Debug\MySql.Data.xml
+C:\Users\Soeun\Desktop\Auxology_2016-01-05\Auxology_2016-01-05\Auxology\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Soeun\Desktop\Auxology_2016-01-05\Auxology_2016-01-05\Auxology\obj\Debug\Auxology.csprojResolveAssemblyReference.cache
+C:\Users\Soeun\Desktop\Auxology_2016-01-05\Auxology_2016-01-05\Auxology\obj\Debug\Auxology.ChartSearchForm.resources
+C:\Users\Soeun\Desktop\Auxology_2016-01-05\Auxology_2016-01-05\Auxology\obj\Debug\Auxology.DoctorInfoForm.resources
+C:\Users\Soeun\Desktop\Auxology_2016-01-05\Auxology_2016-01-05\Auxology\obj\Debug\Auxology.MainForm.resources
+C:\Users\Soeun\Desktop\Auxology_2016-01-05\Auxology_2016-01-05\Auxology\obj\Debug\Auxology.Munjin1Form.resources
+C:\Users\Soeun\Desktop\Auxology_2016-01-05\Auxology_2016-01-05\Auxology\obj\Debug\Auxology.PInfoForm.resources
+C:\Users\Soeun\Desktop\Auxology_2016-01-05\Auxology_2016-01-05\Auxology\obj\Debug\Auxology.PredictForm.resources
+C:\Users\Soeun\Desktop\Auxology_2016-01-05\Auxology_2016-01-05\Auxology\obj\Debug\Auxology.Properties.Resources.resources
+C:\Users\Soeun\Desktop\Auxology_2016-01-05\Auxology_2016-01-05\Auxology\obj\Debug\Auxology.csproj.GenerateResource.Cache
+C:\Users\Soeun\Desktop\Auxology_2016-01-05\Auxology_2016-01-05\Auxology\obj\Debug\Auxology.exe
+C:\Users\Soeun\Desktop\Auxology_2016-01-05\Auxology_2016-01-05\Auxology\obj\Debug\Auxology.pdb
+D:\성장 프로젝트들\Auxology_2017-01-16_2시44분\Auxology_2017-01-05\Auxology_2016-01-05\Auxology\bin\Debug\bin\Debug\AUXOLOGY.mdb
+D:\성장 프로젝트들\Auxology_2017-01-16_2시44분\Auxology_2017-01-05\Auxology_2016-01-05\Auxology\bin\Debug\Auxology.exe.config
+D:\성장 프로젝트들\Auxology_2017-01-16_2시44분\Auxology_2017-01-05\Auxology_2016-01-05\Auxology\bin\Debug\Auxology.exe
+D:\성장 프로젝트들\Auxology_2017-01-16_2시44분\Auxology_2017-01-05\Auxology_2016-01-05\Auxology\bin\Debug\Auxology.pdb
+D:\성장 프로젝트들\Auxology_2017-01-16_2시44분\Auxology_2017-01-05\Auxology_2016-01-05\Auxology\bin\Debug\AForge.xml
+D:\성장 프로젝트들\Auxology_2017-01-16_2시44분\Auxology_2017-01-05\Auxology_2016-01-05\Auxology\bin\Debug\AForge.Imaging.xml
+D:\성장 프로젝트들\Auxology_2017-01-16_2시44분\Auxology_2017-01-05\Auxology_2016-01-05\Auxology\bin\Debug\AForge.Math.xml
+D:\성장 프로젝트들\Auxology_2017-01-16_2시44분\Auxology_2017-01-05\Auxology_2016-01-05\Auxology\bin\Debug\MySql.Data.xml
+D:\성장 프로젝트들\Auxology_2017-01-16_2시44분\Auxology_2017-01-05\Auxology_2016-01-05\Auxology\bin\Debug\Newtonsoft.Json.xml
+D:\성장 프로젝트들\Auxology_2017-01-16_2시44분\Auxology_2017-01-05\Auxology_2016-01-05\Auxology\obj\Debug\Auxology.csprojResolveAssemblyReference.cache
+D:\성장 프로젝트들\Auxology_2017-01-16_2시44분\Auxology_2017-01-05\Auxology_2016-01-05\Auxology\obj\Debug\Auxology.ChartSearchForm.resources
+D:\성장 프로젝트들\Auxology_2017-01-16_2시44분\Auxology_2017-01-05\Auxology_2016-01-05\Auxology\obj\Debug\Auxology.DoctorInfoForm.resources
+D:\성장 프로젝트들\Auxology_2017-01-16_2시44분\Auxology_2017-01-05\Auxology_2016-01-05\Auxology\obj\Debug\Auxology.MainForm.resources
+D:\성장 프로젝트들\Auxology_2017-01-16_2시44분\Auxology_2017-01-05\Auxology_2016-01-05\Auxology\obj\Debug\Auxology.Munjin1Form.resources
+D:\성장 프로젝트들\Auxology_2017-01-16_2시44분\Auxology_2017-01-05\Auxology_2016-01-05\Auxology\obj\Debug\Auxology.PInfoForm.resources
+D:\성장 프로젝트들\Auxology_2017-01-16_2시44분\Auxology_2017-01-05\Auxology_2016-01-05\Auxology\obj\Debug\Auxology.PredictForm.resources
+D:\성장 프로젝트들\Auxology_2017-01-16_2시44분\Auxology_2017-01-05\Auxology_2016-01-05\Auxology\obj\Debug\Auxology.Properties.Resources.resources
+D:\성장 프로젝트들\Auxology_2017-01-16_2시44분\Auxology_2017-01-05\Auxology_2016-01-05\Auxology\obj\Debug\Auxology.csproj.GenerateResource.Cache
+D:\성장 프로젝트들\Auxology_2017-01-16_2시44분\Auxology_2017-01-05\Auxology_2016-01-05\Auxology\obj\Debug\Auxology.exe
+D:\성장 프로젝트들\Auxology_2017-01-16_2시44분\Auxology_2017-01-05\Auxology_2016-01-05\Auxology\obj\Debug\Auxology.pdb
+C:\Users\Soeun\Documents\카카오톡 받은 파일\Auxology_2016-01-23\Auxology_2016-01-05\Auxology\bin\Debug\bin\Debug\AUXOLOGY.mdb
+C:\Users\Soeun\Documents\카카오톡 받은 파일\Auxology_2016-01-23\Auxology_2016-01-05\Auxology\bin\Debug\Auxology.exe.config
+C:\Users\Soeun\Documents\카카오톡 받은 파일\Auxology_2016-01-23\Auxology_2016-01-05\Auxology\bin\Debug\Auxology.exe
+C:\Users\Soeun\Documents\카카오톡 받은 파일\Auxology_2016-01-23\Auxology_2016-01-05\Auxology\bin\Debug\Auxology.pdb
+C:\Users\Soeun\Documents\카카오톡 받은 파일\Auxology_2016-01-23\Auxology_2016-01-05\Auxology\bin\Debug\AForge.xml
+C:\Users\Soeun\Documents\카카오톡 받은 파일\Auxology_2016-01-23\Auxology_2016-01-05\Auxology\bin\Debug\AForge.Imaging.xml
+C:\Users\Soeun\Documents\카카오톡 받은 파일\Auxology_2016-01-23\Auxology_2016-01-05\Auxology\bin\Debug\AForge.Math.xml
+C:\Users\Soeun\Documents\카카오톡 받은 파일\Auxology_2016-01-23\Auxology_2016-01-05\Auxology\bin\Debug\MySql.Data.xml
+C:\Users\Soeun\Documents\카카오톡 받은 파일\Auxology_2016-01-23\Auxology_2016-01-05\Auxology\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Soeun\Documents\카카오톡 받은 파일\Auxology_2016-01-23\Auxology_2016-01-05\Auxology\obj\Debug\Auxology.csprojResolveAssemblyReference.cache
+C:\Users\Soeun\Documents\카카오톡 받은 파일\Auxology_2016-01-23\Auxology_2016-01-05\Auxology\obj\Debug\Auxology.ChartSearchForm.resources
+C:\Users\Soeun\Documents\카카오톡 받은 파일\Auxology_2016-01-23\Auxology_2016-01-05\Auxology\obj\Debug\Auxology.DoctorInfoForm.resources
+C:\Users\Soeun\Documents\카카오톡 받은 파일\Auxology_2016-01-23\Auxology_2016-01-05\Auxology\obj\Debug\Auxology.MainForm.resources
+C:\Users\Soeun\Documents\카카오톡 받은 파일\Auxology_2016-01-23\Auxology_2016-01-05\Auxology\obj\Debug\Auxology.Munjin1Form.resources
+C:\Users\Soeun\Documents\카카오톡 받은 파일\Auxology_2016-01-23\Auxology_2016-01-05\Auxology\obj\Debug\Auxology.PInfoForm.resources
+C:\Users\Soeun\Documents\카카오톡 받은 파일\Auxology_2016-01-23\Auxology_2016-01-05\Auxology\obj\Debug\Auxology.PredictForm.resources
+C:\Users\Soeun\Documents\카카오톡 받은 파일\Auxology_2016-01-23\Auxology_2016-01-05\Auxology\obj\Debug\Auxology.Properties.Resources.resources
+C:\Users\Soeun\Documents\카카오톡 받은 파일\Auxology_2016-01-23\Auxology_2016-01-05\Auxology\obj\Debug\Auxology.csproj.GenerateResource.Cache
+C:\Users\Soeun\Documents\카카오톡 받은 파일\Auxology_2016-01-23\Auxology_2016-01-05\Auxology\obj\Debug\Auxology.exe
+C:\Users\Soeun\Documents\카카오톡 받은 파일\Auxology_2016-01-23\Auxology_2016-01-05\Auxology\obj\Debug\Auxology.pdb
